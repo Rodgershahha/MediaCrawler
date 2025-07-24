@@ -1,0 +1,1625 @@
+[{
+    'user': {
+        'user_id': '62a70cbf000000001b02483a',
+        'nickname': '落日',
+        'avatar': 'https://sns-avatar-qc.xhscdn.com/avatar/be4e54a984a21be925a215a08fb36c8b.jpg',
+        'xsec_token': 'ABsh1IjcFrTFbzvuGWz6_9mVuqWQINwL2FDytuCwj_9T4='
+    },
+    'tag_list': [],
+    'note_id': '665450720000000005006b51',
+    'title': '',
+    'desc': '哇塞，大学生 
+    活真是既精彩又充满挑战呢！💸🎓 今天就来给大家种草几个超适合学生党的赚钱小妙招， 让你的钱包鼓起来， 还能积累宝贵的经验哦！🌟\ n1. ** 兼职实习 ** 🏢：利用假期或课余时间找一份实习， 不仅能赚零花钱， 还能提前体验职场生活， 为未来的职业规划打下基础。 记得选择与自己专业相关的岗位， 这样实
+    践经验更贴切哦！\ n2. ** 家教 / 辅导 ** 👨\u200d🏫： 如果你有擅长的科目， 不妨试试做家教。 既能复习知识， 又能锻炼沟通能力， 一举两得！\ n3. ** 线上
+    兼职 ** 💻：网络上的兼职机会多多， 比如写作、 设计、 编程等， 时间灵活， 适合学业繁忙的同学。\ n4. ** 校园代理 ** 🎓+💼：成为某些品牌或产品的校园
+    代理， 推广给同学， 既能锻炼销售技巧， 又有机会拿到不错的提成。\ n5. ** 二手书交易 ** 📘：买进卖出二手教材， 既能帮学弟学妹省钱， 自己也能小赚一
+    笔。\ n6. ** 技能交换 ** 🎉：如果你会摄影、 绘画、 乐器等， 可以开设小班教学， 和同学们互相学习， 共同进步。\ n7. ** 参与调研 ** 🔍：很多市场调研公
+    司会招募学生参与问卷调查， 轻松赚取小额报酬。\ n8. ** 创意市集 ** 🛍️：手工艺、 DIY作品， 可以在校内摆摊， 分享你的创意， 同时收获成就感和收入。\
+    n9. ** 健身教练 ** 🏋️\u200d♂️： 如果你热爱运动， 考个证书当私人教练， 健康又赚钱。\ n10. ** 社团活动策划 ** 🎈：组织各类活动， 既能丰富校园生活，
+    也能从中获得赞助和酬劳。\ n记得， 赚钱的同时不要忘了学业哦！ 平衡好时间， 让大学生活充实又多彩！🌈💪\ n# 大学生活# 赚钱攻略# 学生党必看# 实践出
+    真知\ n快来尝试这些方法， 让你的大学时光更加丰富多彩吧！🎉💰 ', '
+    interact_info ': {'
+    collected_count ': '
+    31 ', '
+    comment_count ': '
+    3 ', '
+    share_count ': '
+    0 ', '
+    followed ': False, '
+    relation ': '
+    none ', '
+    liked ': False, '
+    liked_count ': '
+    62 ', '
+    collected ': False}, '
+    image_list ': [{'
+    live_photo ': False, '
+    trace_id ': '
+    ', '
+    info_list ': [{'
+    image_scene ': '
+    WB_PRV ', '
+    url ': '
+    http: //sns-webpic-qc.xhscdn.com/202507240142/65de3eed773e3db47a285fcdf7fff79e/1040g2sg313a122481ed05ol71ivmsi1qkmbgfjo!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/79f4a0bf1da270f77501f63096dacdc7/1040g2sg313a122481ed05ol71ivmsi1qkmbgfjo!nd_dft_wlteh_webp_3'}], 'width': 1080, 'url': 
+        'http://sns-webpic-qc.xhscdn.com/202507240142/79f4a0bf1da270f77501f63096dacdc7/1040g2sg313a122481ed05ol71ivmsi1qkmbgfjo!nd_dft_wlteh_webp_3',
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/65de3eed773e3db47a285fcdf7fff79e/1040g2sg313a122481ed05ol71ivmsi1qkmbgfjo!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/79f4a0bf1da270f77501f63096dacdc7/1040g2sg313a122481ed05ol71ivmsi1qkmbgfjo!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'file_id': '',
+    'height': 1440
+}], 'at_user_list': [], 'time': 1716801650000, 'last_update_time': 1716801650000, 'type': 'normal', 'share_info': {
+    'un_share': False
+}, 'xsec_token': 'AB54kRtOUZrmLHnn0MQI32eE1cy39vCh-XHnxTzDRcGQY=', 'xsec_source': None
+}, {
+    'time': 1738658763000,
+    'share_info': {
+        'un_share': False
+    },
+    'note_id': '67a1d3cb000000001701d7b0',
+    'title': '程序员搞副业的认知分水岭，不能当外包机器',
+    'desc': '很多程序员接私单时：\n❌ 客户说改哪就改哪\n❌ 重复造业务轮子\n❌ 熬夜交付后只剩转账记 
+    录\ n❌ 每个项目都是孤立的存在\ n直到我把副业当作创业公司经营\ n才发现技术变现的终极形态\ n根本不是体力劳动套现！\ n👉🏻 我的认知升级三部曲：\ n
+    1️⃣【 从接单思维到产品思维】\ n▫️ 以前： 堆砌功能清单\ n▫️ 现在： 每个需求追问 "这个模块能否产品化？"\
+    n▫️ 案例： 把某客户的数据清洗脚本→ 封装成SaaS
+    工具→ 卖给同行业3家公司\ n2️⃣【 从项目制到体系化】\ n▫️ 建立技术中台： 把重复的登录 / 支付 / 消息模块沉淀成标准组件\ n▫️ 开发文档即产品： 技术方案说明
+    书也能成为知识付费内容\ n▫️ 客户案例库： 每个交付物都是下个项目的广告位\ n3️⃣【 从乙方到IP持有者】\ n▫️ 在GitHub维护技术解决方案库（ 自然获客）\ n▫️ 把项目踩坑经验写成技术方案白皮书（ 提升议价权）\ n▫️ 用自动化工具承接基础需求（ 腾出时间做架构设计）\ n💡 真正值钱的从来不是代码\ n而是你解决
+    问题的思维模型\ n当你的交付物开始自带可复制性\ n才算摸到了 "睡后收入"
+    的门槛\ n现在我的技术副业：\ n✅ 40 % 被动收入（ 标准化工具）\ n✅ 30 % 定制开发（ 高溢价项目）\ n✅ 30 % 行业咨询（ 认知变现）\ n那些只会写CRUD的程序员\ n和能输出解决方案架构师的差距\ n不在技术栈深浅\ n而在于是否用CEO视角看待
+    每个需求\ n🛠️ 今日行动指南：\ n打开你的项目文件夹\ n找出重复率最高的三个模块\ n开始写第一份技术解决方案文档# 程序员职业生活大赏[话题]## 计算机
+    专业[话题]## 程序员[话题]## 网络安全[话题]## 个人开发者[话题]## 计算机[话题]## 软件设计与开发[话题]#
+    ', '
+    image_list ': [{'
+    height ': 4032, '
+    url ': '
+    http: //sns-webpic-qc.xhscdn.com/202507240142/54c92d24de5a50c3d33385a426a19cb4/1040g00831dfnb3uu0s005o3bmgo094uqt7ffdro!nd_dft_wlteh_webp_3', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/978c39577358a26cba59a010270c0eb4/1040g00831dfnb3uu0s005o3bmgo094uqt7ffdro!nd_prv_wlteh_webp_3', 'live_photo': True, 'file_id': '', 'width': 3024, 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/978c39577358a26cba59a010270c0eb4/1040g00831dfnb3uu0s005o3bmgo094uqt7ffdro!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/54c92d24de5a50c3d33385a426a19cb4/1040g00831dfnb3uu0s005o3bmgo094uqt7ffdro!nd_dft_wlteh_webp_3'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/54c92d24de5a50c3d33385a426a19cb4/1040g00831dfnb3uu0s005o3bmgo094uqt7ffdro!nd_dft_wlteh_webp_3', 'stream': {'h265': [], 'h266': [], 'av1': [], 'h264': [{'master_url': 'http://sns-video-qc.xhscdn.com/stream/1/10/19/01e7a1d3c6470bf30100500394d0236927_19.mp4?sign=fcd2e106acf4d9d5efa3c8a43aef8dee&t=6885bc41', 'backup_urls': ['http://sns-bak-v6.xhscdn.com/stream/1/10/19/01e7a1d3c6470bf30100500394d0236927_19.mp4']}]}}, {'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/86345f121c5e2323177ded0ecd250846/1040g00831dfnb3uu0s0g5o3bmgo094uqvcgremg!nd_prv_wlteh_webp_3', 'stream': {}, 'height': 2560, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/14f6a6849e0efea6195aa39987ba490e/1040g00831dfnb3uu0s0g5o3bmgo094uqvcgremg!nd_dft_wlteh_webp_3', 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/86345f121c5e2323177ded0ecd250846/1040g00831dfnb3uu0s0g5o3bmgo094uqvcgremg!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/14f6a6849e0efea6195aa39987ba490e/1040g00831dfnb3uu0s0g5o3bmgo094uqvcgremg!nd_dft_wlteh_webp_3'}], 'file_id': '', 'width': 1920, 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/14f6a6849e0efea6195aa39987ba490e/1040g00831dfnb3uu0s0g5o3bmgo094uqvcgremg!nd_dft_wlteh_webp_3', 'live_photo': False}, {'file_id': '', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/92c3d96876d033c3d53326509478d86a/1040g00831dfnb3uu0s105o3bmgo094uq8pirf4g!nd_dft_wlteh_webp_3', 'trace_id': '', 'height': 4032, 'width': 3024, 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/a262734efc4f17f9e48914aebc449342/1040g00831dfnb3uu0s105o3bmgo094uq8pirf4g!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/92c3d96876d033c3d53326509478d86a/1040g00831dfnb3uu0s105o3bmgo094uq8pirf4g!nd_dft_wlteh_webp_3'}], 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/a262734efc4f17f9e48914aebc449342/1040g00831dfnb3uu0s105o3bmgo094uq8pirf4g!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/92c3d96876d033c3d53326509478d86a/1040g00831dfnb3uu0s105o3bmgo094uq8pirf4g!nd_dft_wlteh_webp_3', 'stream': {'av1': [], 'h264': [{'master_url': 'http://sns-video-qc.xhscdn.com/stream/1/10/19/01e7a1d3c74837160100500394d0237694_19.mp4?sign=0fbd3b80884887fd4d12093e2480d197&t=6885bc41', 'backup_urls': ['http://sns-bak-v6.xhscdn.com/stream/1/10/19/01e7a1d3c74837160100500394d0237694_19.mp4']}], 'h265': [], 'h266': []}, 'live_photo': True}, {'file_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/9d3bcc952397b255f90885874845d066/1040g00831dfnb3uu0s1g5o3bmgo094uqajrsn08!nd_prv_wlteh_webp_3', 'live_photo': True, 'height': 4032, 'width': 3024, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/f5ac6b7d7e80e15371894e7b818fe26a/1040g00831dfnb3uu0s1g5o3bmgo094uqajrsn08!nd_dft_wlteh_webp_3', 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/9d3bcc952397b255f90885874845d066/1040g00831dfnb3uu0s1g5o3bmgo094uqajrsn08!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/f5ac6b7d7e80e15371894e7b818fe26a/1040g00831dfnb3uu0s1g5o3bmgo094uqajrsn08!nd_dft_wlteh_webp_3'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/f5ac6b7d7e80e15371894e7b818fe26a/1040g00831dfnb3uu0s1g5o3bmgo094uqajrsn08!nd_dft_wlteh_webp_3', 'stream': {'h264': [{'master_url': 'http://sns-video-qc.xhscdn.com/stream/1/10/19/01e7a1d3c84a2a810100500394d0237cb7_19.mp4?sign=fa5d897f3478792988642ff99ecc8017&t=6885bc41', 'backup_urls': ['http://sns-bak-v6.xhscdn.com/stream/1/10/19/01e7a1d3c84a2a810100500394d0237cb7_19.mp4']}], 'h265': [], 'h266': [], 'av1': []}}], 'at_user_list': [], 'type': 'normal', 'user': {'avatar': 'https://sns-avatar-qc.xhscdn.com/avatar/643d5d4ee53d4325428e30b6.jpg', 'xsec_token': 'AB4TDB3mr4fqNc_aHHvI3hVZYqZ-EM6k--YpvmgUfDn4E=', 'user_id': '606bb43000000000010093da', 'nickname': '小青柠'}, 'interact_info': {'liked_count': '63', 'collected': False, 'collected_count': '47', 'comment_count': '5', 'share_count': '5', 'followed': False, 'relation': 'none', 'liked': False}, 'tag_list': [{'id': '5f97f83b0000000001000572', 'name': '程序员职业生活大赏', 'type': 'topic'}, {'type': 'topic', 'id': '5ccedc00000000000d016f9e', 'name': '计算机专业'}, {'id': '5bf54ae0e1921600011295f8', 'name': '程序员', 'type': 'topic'}, {'id': '5ca3f67e000000000e0189de', 'name': '网络安全', 'type': 'topic'}, {'name': '个人开发者', 'type': 'topic', 'id': '61e24ac3000000000100a2b8'}, {'id': '5bfa12489c1d82000102c324', 'name': '计算机', 'type': 'topic'}, {'id': '6303da420000000001007e02', 'name': '软件设计与开发', 'type': 'topic'}], 'last_update_time': 1738658763000, 'xsec_token': 'ABkUHQGqQkug1k0I77Qyo25bzskVPg8eYLfetiiGV5X5c=', 'xsec_source': None}, {'share_info': {'un_share': False}, 'title': '前端程序员都可 
+        以做哪些副业？ ', '
+    interact_info ': {'
+    liked ': False, '
+    liked_count ': '
+    62 ', '
+    collected ': False, '
+    collected_count ': '
+    57 ', '
+    comment_count ': '
+    9 ', '
+    share_count ': '
+    13 ', '
+    followed ': False, '
+    relation ': '
+    none '}, '
+    tag_list ': [{'
+    id ': '
+    603 da82a0000000001008e80 ', '
+    name ': '
+    前端培训 ', '
+    type ': '
+    topic '}, {'
+    id ': '
+    633 bcb6b000000000101c60d ', '
+    name ': '
+    前端一对一 ', '
+    type ': '
+    topic '}, {'
+    id ': '
+    5 d459a7b00000000170283cf ', '
+    name ': '
+    web前
+    端学习 ', '
+    type ': '
+    topic '}, {'
+    id ': '
+    620309e8000000000101 f3cd ', '
+    name ': '
+    程序员副业 ', '
+    type ': '
+    topic '}, {'
+    id ': '
+    6150 a3a4000000000101eaa7 ', 
+    'name': '前端入门',
+    'type': 'topic'
+}, {
+    'id': '5c8c9ab4000000000e028e66',
+    'name': '前端开发',
+    'type': 'topic'
+}], 'at_user_list': [], 'time': 1711021105000, 'last_update_time': 1711021106000, 'note_id': '65fc1c310000000013024c3f', 'type': 'normal', 'desc': '哪个程序员还没有个
+副业呀， 整不好副业比主业都要赚得多[大笑R]# 前端培训[话题]## 前端一对一[话题]## web前端学习[话题]## 程序员副业[话题]## 前端入门[话题]## 前
+端开发[话题]#
+', '
+user ': {'
+user_id ': '
+5 be3b8d87cb41f0001af4c86 ', '
+nickname ': '
+码控前端徐老师 ', '
+avatar ': '
+https: //sns-avatar-qc.xhscdn.com/avatar/67b33e070943fa000170ea35.jpg', 'xsec_token': 'ABi1_u8tXeEatvGDoszwiHWH2YItoRLiq0TdthAkuWsHo='}, 'image_list': [{'file_id': '', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/46a131c8155466787f4d0ce0fe49b1f4/1040g2sg310jsluhu6e004bosulsdgj46m5ku6n8!nd_dft_wlteh_webp_3', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/d83404418a34b0c8a7336370dd53beef/1040g2sg310jsluhu6e004bosulsdgj46m5ku6n8!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/46a131c8155466787f4d0ce0fe49b1f4/1040g2sg310jsluhu6e004bosulsdgj46m5ku6n8!nd_dft_wlteh_webp_3'}], 'stream': {}, 'live_photo': False, 'height': 1604, 'width': 1170, 'trace_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/d83404418a34b0c8a7336370dd53beef/1040g2sg310jsluhu6e004bosulsdgj46m5ku6n8!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/46a131c8155466787f4d0ce0fe49b1f4/1040g2sg310jsluhu6e004bosulsdgj46m5ku6n8!nd_dft_wlteh_webp_3'}, {'height': 1660, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/ca7ef81d18e687e9e9fc45c83fe58a73/1040g2sg310jsluhu6e0g4bosulsdgj46jhp60g8!nd_dft_wlteh_webp_3', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/92beac31af3a98f80b2d7a4e4fa0f7a2/1040g2sg310jsluhu6e0g4bosulsdgj46jhp60g8!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/ca7ef81d18e687e9e9fc45c83fe58a73/1040g2sg310jsluhu6e0g4bosulsdgj46jhp60g8!nd_dft_wlteh_webp_3', 'stream': {}, 'file_id': '', 'width': 1242, 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/92beac31af3a98f80b2d7a4e4fa0f7a2/1040g2sg310jsluhu6e0g4bosulsdgj46jhp60g8!nd_prv_wlteh_webp_3'}, {'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/ca7ef81d18e687e9e9fc45c83fe58a73/1040g2sg310jsluhu6e0g4bosulsdgj46jhp60g8!nd_dft_wlteh_webp_3', 'image_scene': 'WB_DFT'}], 'live_photo': False}, {'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/4a1afde162544f1f07e6e396725a9657/1040g2sg310jsluhu6e104bosulsdgj46q3mlg9o!nd_prv_wlteh_webp_3'}, {'image_scene': 
+    'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/f1165bc6f590dd58e69fc48244e5134e/1040g2sg310jsluhu6e104bosulsdgj46q3mlg9o!nd_dft_wlteh_webp_3'
+}], 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/4a1afde162544f1f07e6e396725a9657/1040g2sg310jsluhu6e104bosulsdgj46q3mlg9o!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/f1165bc6f590dd58e69fc48244e5134e/1040g2sg310jsluhu6e104bosulsdgj46q3mlg9o!nd_dft_wlteh_webp_3', 'file_id': '', 'height': 1660, 'width': 1242, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/f1165bc6f590dd58e69fc48244e5134e/1040g2sg310jsluhu6e104bosulsdgj46q3mlg9o!nd_dft_wlteh_webp_3', 'stream': {}, 'live_photo': False
+}, {
+    'height': 1660,
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/76e70505452fd79522c9b376c531d178/1040g2sg310jsluhu6e1g4bosulsdgj46v45tq7g!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/9b804142f5c30151899a1aeee1c2aff8/1040g2sg310jsluhu6e1g4bosulsdgj46v45tq7g!nd_dft_wlteh_webp_3',
+    'file_id': '',
+    'width': 1242,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/9b804142f5c30151899a1aeee1c2aff8/1040g2sg310jsluhu6e1g4bosulsdgj46v45tq7g!nd_dft_wlteh_webp_3',
+    'trace_id': '',
+    'info_list': [{
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/76e70505452fd79522c9b376c531d178/1040g2sg310jsluhu6e1g4bosulsdgj46v45tq7g!nd_prv_wlteh_webp_3',
+        'image_scene': 'WB_PRV'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/9b804142f5c30151899a1aeee1c2aff8/1040g2sg310jsluhu6e1g4bosulsdgj46v45tq7g!nd_dft_wlteh_webp_3'
+    }],
+    'stream': {},
+    'live_photo': False
+}, {
+    'width': 1242,
+    'trace_id': '',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2a8fb54a2083f662dee81e5beee82440/1040g2sg310jsluhu6e204bosulsdgj46h1ufq2g!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/eca53862b5932f7da140f3b74626724c/1040g2sg310jsluhu6e204bosulsdgj46h1ufq2g!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/2a8fb54a2083f662dee81e5beee82440/1040g2sg310jsluhu6e204bosulsdgj46h1ufq2g!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/eca53862b5932f7da140f3b74626724c/1040g2sg310jsluhu6e204bosulsdgj46h1ufq2g!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'file_id': '',
+    'height': 1660,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/eca53862b5932f7da140f3b74626724c/1040g2sg310jsluhu6e204bosulsdgj46h1ufq2g!nd_dft_wlteh_webp_3',
+    'live_photo': False
+}], 'xsec_token': 'ABpscNpdOZ_1tBG5AUyke0RQQT_DRLcxzhG4Tg5zhIDPE=', 'xsec_source': None
+}, {
+    'tag_list': [{
+        'id': '64205aa4000000000a007548',
+        'name': '女大学生搞钱',
+        'type': 'topic'
+    }, {
+        'name': '技术女生搞钱',
+        'type': 'topic',
+        'id': '67f4ea9a0000000013013497'
+    }, {
+        'id': '5bfa12489c1d82000102c324',
+        'name': '计算机',
+        'type': 'topic'
+    }, {
+        'id': '5be6f604db601f0001f98c11',
+        'name': '编程',
+        'type': 'topic'
+    }, {
+        'id': '5d46b0a9000000000e03f0f1',
+        'name': 'Java',
+        'type': 'topic'
+    }, {
+        'name': '程序',
+        'type': 'topic',
+        'id': '5c7be2d8000000000d00fd24'
+    }, {
+        'name': '副业',
+        'type': 'topic',
+        'id': '645d342700000000280138ee'
+    }],
+    'last_update_time': 1744104124000,
+    'share_info': {
+        'un_share': False
+    },
+    'image_list': [{
+        'live_photo': False,
+        'file_id': '',
+        'height': 1660,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/20267fa35a1ba6d1c6057e98077fd731/spectrum/1040g0k031g0rk5is0e005pkls473cj26ss3fmv8!nd_dft_wlteh_webp_3',
+        'trace_id': '',
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/5bd4c336b109d9633d9d4dd331dc335d/spectrum/1040g0k031g0rk5is0e005pkls473cj26ss3fmv8!nd_prv_wlteh_webp_3',
+        'stream': {},
+        'width': 1242,
+        'info_list': [{
+            'image_scene': 'WB_PRV',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/5bd4c336b109d9633d9d4dd331dc335d/spectrum/1040g0k031g0rk5is0e005pkls473cj26ss3fmv8!nd_prv_wlteh_webp_3'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/20267fa35a1ba6d1c6057e98077fd731/spectrum/1040g0k031g0rk5is0e005pkls473cj26ss3fmv8!nd_dft_wlteh_webp_3'
+        }],
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/20267fa35a1ba6d1c6057e98077fd731/spectrum/1040g0k031g0rk5is0e005pkls473cj26ss3fmv8!nd_dft_wlteh_webp_3'
+    }],
+    'at_user_list': [],
+    'note_id': '67f4eabc000000000d0179f7',
+    'type': 'normal',
+    'title': '计算机女生必试的 3 个高薪副业！亲测无敌',
+    'desc': '💻 计算机女生搞钱新思路！3 个高薪副
+    业亲测月入过万（ 附避坑指南）\ n作为从大二开始搞副业的计算机老学姐， 今天分享 3 个「 技术 + 创意」 结合的宝藏方向， 不卷代码不熬夜， 学生党 / 上
+    班族都能做， 附真实收入案例和实操步骤👇\ n01🔥 在线教育录题 / 审核： 用专业知识换自由\ n适合人群： 计算机专业学生 / 应届生， 擅长解题和表达\ n
+    我的故事： 大二时发现「 给大学生录解题视频」 的副业， 用 Python 讲算法题、 用 C 语言演示代码逻辑， 每天花 2 小时录制 3 - 5 题， 月入 6000 + \n✅ 3 步
+    启动法\ n1️⃣ 选对平台和科目\ n优先选计算机专业课（ 如数据结构、 操作系统）， 单价高且竞争小。 避开数学 / 英语等红海科目！\ n2️⃣ 设备和技巧\ n基础
+    设备： 电脑 + 手写板（ 推荐 Wacom CTL - 6100， 300 元） 或 iPad + 电容笔（ 平替款南卡 Pencil， 200 元）\ n3️⃣ 避坑指南\ n拒绝「 先交押金」 的平台（ 如
+    某兼职 APP 要求交 300 元设备费）\ n签约前确认结款周期（ 优先选周结， 月结易拖欠）\ n保护知识产权： 录制时添加水印（ 推荐Snagit）， 防止甲方白嫖\ n✅ 接单全攻略\ n1️⃣ 平台选择\ n国内平台： 译想天开（ CATTI 持证优先， 时薪 150 元）、 猪八戒网（ 适合新手， 抽成 20 % ）\n海外平台： Upwork（ 时薪 30 -
+    50 美元， 需全英文沟通）、 ProZ（ 技术类翻译占比 70 % ）\n2️⃣ 技能准备\ n必学工具： Trados（ 翻译记忆库）、 MemoQ（ 术语管理）\ n行业术语： 整理计算
+    机英语词汇表（ 如 API 接口、 database 数据库）， 用Anki卡片记忆\ n3️⃣ 提升溢价\ n考取CATTI 三级笔译（ 报名费 360 元， 通过率 30 % ）\n垂直领域： 专
+    攻AI / 区块链 / 云计算， 单价是通用翻译的 2 倍！\ n✅ 接单技巧\ n1️⃣ 渠道推荐\ n学问猫教育（ 时薪 150 - 200 元， 需英语六级）\ nCambly（ 时薪 10 - 20
+    美元， 适合口语练习）\ n淘宝教育（ 搜索「 留学生辅导」， 单价 500 - 1000 元 / 课）\ n2️⃣ 备课秘籍\ n用Google Jamboard共享白板， 实时写代码\ n录制知
+    识点短视频（ 如「 冒泡排序动画演示」）， 课后发给学生\ n想试试的宝子可以先从「 整理计算机笔记」 开始， 技术女生的搞钱路， 从来不是只有写代码！💻✨\ n\ufeff# 女大学生搞钱[话题]# \ufeff \ufeff# 技术女生搞钱[话题]# \ufeff \ufeff# 计算机[话题]# \ufeff \ufeff# 编程[话题]# \ufeff \ufeff# Java[话题]# \ufeff \ufeff# 程序[话题]# \ufeff \ufeff# 副业[话题]# \ufeff ', '
+    user ': {'
+    nickname ': '
+    蜜糖在学习 ', '
+    avatar ': '
+    https: //sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f81hbm86o6g5pkls473cj262q3d3vg', 'xsec_token': 'ABUSULubnxbOd2DCUbvzG66GuuLYelsuAdalq0oX8_gFE=', 'user_id': '6695e10e000000000d024c46'}, 'interact_info': {'liked': False, 'liked_count': '61', 'collected': False, 'collected_count': '76', 'comment_count': '8', 'share_count': '12', 'followed': False, 'relation': 'none'}, 'time': 1744104124000, 'xsec_token': 'ABccFZiiHcyRUS8zM3KAm0XxoqgzdKR5NmzqqLGQCBRTw=', 'xsec_source': None}, {'tag_list': [{'id': '5bf54ae0e1921600011295f8', 'name': '程序员', 'type': 'topic'}, {'id': '5c0f70b73767f600014af155', 'name': '软件开发', 'type': 'topic'}, {'id': '5db8657d00000000020005d5', 'name': '副业可以这么干', 'type': 'topic'}, 
+    {
+        'id': '5ec89f51000000000101f1a0',
+        'name': '小程序制作开发',
+        'type': 'topic'
+    }], 'at_user_list': [], 'time': 1729700736000, 'last_update_time': 1729700736000, 'note_id': '67192380000000001402c131', 'type': 'normal', 'title': '97年程序员，下班接私活，想提前退休', 'desc': '昨 
+天和客户聊了一下前几天交付的产品， 客户体验后提了一堆优化需求， 虽然有点反感， 毕竟都是按之前聊的需求开发的， 现在突然又改这么多， 但是还是由
+衷的开心的， 因为只有客户对产品要求越高， 后续系统才不会是一个摆设（ 接单一年的经验）， 后续才会有更多的优化需求。 当然我们也只有服务好客户，
+后续才能积累这样的资源， 有转介绍的客户。\ n# 程序员[话题]## 软件开发[话题]## 副业可以这么干[话题]## 小程序制作开发[话题]#
+', '
+share_info ': {'
+un_share ': False}, '
+user ': {'
+xsec_token ': '
+ABFZBEeGWqA83LLi - TcDDBw6pYemuagvrrhVeeLXOfZVM = ', '
+user_id ': '
+634 cbadf000000001901d06e ', '
+nickname ': '
+深漂程序员犬夜叉 ', '
+avatar ': '
+https: //sns-avatar-qc.xhscdn.com/avatar/6460f653f9ef96cf85921fb1.jpg'}, 'interact_info': {'relation': 'none', 'liked': False, 'liked_count': '57', 'collected': False, 'collected_count': '15', 'comment_count': '46', 'share_count': '6', 'followed': False}, 'image_list': [{'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2229b188d95eac604f06264cd075e11b/1040g2sg319a7qffal8705oqcnbfmbk3eo0pdbe0!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 
+    'http://sns-webpic-qc.xhscdn.com/202507240142/471cb1f12e804a56cd20a4ae19e40913/1040g2sg319a7qffal8705oqcnbfmbk3eo0pdbe0!nd_dft_wlteh_webp_3'
+}], 'live_photo': True, 'file_id': '', 'height': 4032, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/471cb1f12e804a56cd20a4ae19e40913/1040g2sg319a7qffal8705oqcnbfmbk3eo0pdbe0!nd_dft_wlteh_webp_3', 'stream': {
+    'h266': [],
+    'av1': [],
+    'h264': [{
+        'master_url': 'http://sns-video-qc.xhscdn.com/stream/10/19/01e719237d74886f0100500392ba32cef6_19.mp4?sign=23564a819110945d97d53e5db3df7b4d&t=6885bc43',
+        'backup_urls': ['http://sns-bak-v6.xhscdn.com/stream/10/19/01e719237d74886f0100500392ba32cef6_19.mp4']
+    }],
+    'h265': []
+}, 'width': 3024, 'url_pre':
+'http://sns-webpic-qc.xhscdn.com/202507240142/2229b188d95eac604f06264cd075e11b/1040g2sg319a7qffal8705oqcnbfmbk3eo0pdbe0!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/471cb1f12e804a56cd20a4ae19e40913/1040g2sg319a7qffal8705oqcnbfmbk3eo0pdbe0!nd_dft_wlteh_webp_3'
+}], 'xsec_token': 'ABNVTDIz6Hzral6HO7ku7AaaGW6CDh-1MiAEsySM8gweg=', 'xsec_source': None
+}, {
+    'tag_list': [{
+        'id': '63e3d78100000000010009eb',
+        'name': 'AI大模型',
+        'type': 'topic'
+    }, {
+        'id': '5be6f604db601f0001f98c11',
+        'name': '编程',
+        'type': 'topic'
+    }, {
+        'id': '5df11b830000000001000019',
+        'name': '副业挣钱',
+        'type': 'topic'
+    }, {
+        'name': 'AI编程',
+        'type': 'topic',
+        'id': '63cc0a4f000000000100b1b3'
+    }, {
+        'id': '61f01dfc0000000001007d57',
+        'name': 'AI游戏',
+        'type': 'topic'
+    }, {
+        'id': '5bea7b2e1cc2b50001495626',
+        'name': '大学生创业',
+        'type': 'topic'
+    }],
+    'last_update_time': 1742865323000,
+    'note_id': '67e1ff45000000001b0398dd',
+    'type': 'normal',
+    'title': 'AI编程+AI游戏，尝试赚到
+    第一块美金💲 ', '
+    desc ': '
+    最近在积极学习AI编程 + AI游戏的变现可能性， 也看到值得学习的玩家\ n作为刚下场的小白， 把怎么产生变现的大致思路做个总结\ n[打卡R] 寻找一款小游戏， 找到游戏链接\ n[打卡R] 使用iframe框架将游戏嵌入到网站中网站可以由AI开发\ n[打卡R] 购买一个域名并在Cloudflare上托管\ n[打卡R] 将AI开发的网站上传到Github\ n[打卡R] 在cloudflare上关联Github 项目， 并且绑定域名\ n[打卡R] 将网站加入谷歌广告联盟Adsense， 网站上放广告\ n[打卡R] 只要有人浏览网站就可以产生广告的收益\ n\ t\ n后续可以在对网站做一些丰富以及搜索结果的优化， 让你的网站流量越来越多\ n\ t\ n至此一门小小
+    的生意就可以跑起来了[害羞R]\ n\ t\ n完整的路我也还没有跑通， 把阶段性的总结记录发个笔记！\ n有在做这个的伙伴在评论区多多交流[蹲后续H][蹲后续H]# AI大模型[话题]## 编程[话题]## 副业挣钱[话题]## AI编程[话题]## AI游戏[话题]## 大学生创业[话题]#
+    ', '
+    user ': {'
+    user_id ': '
+    5 dbc64600000000001001c1a ', '
+    nickname ': '
+    AI产品的神奇口袋 ', '
+    avatar ': '
+    https: //sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e7p56magk005ndschg0870q22kfhr8', 'xsec_token': 'ABUwzhc-LKuqItdzIWF0yFfM3r_FpfbFMTnv3Hy0nlqmw='}, 'interact_info': {'followed': False, 'relation': 'none', 'liked': False, 'liked_count': '57', 'collected': False, 'collected_count': '100', 'comment_count': '5', 'share_count': '8'}, 'share_info': {'un_share': False}, 'image_list': [{'file_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/5b7b10745dab53b20ec28b2c101b4da2/1040g00831feckv64ma005ndschg0870qlta17ko!nd_prv_wlteh_webp_3'}, {'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/496b1e34e42a9ff9fa9a2cb1ef73bdcb/1040g00831feckv64ma005ndschg0870qlta17ko!nd_dft_wlteh_webp_3', 'image_scene': 'WB_DFT'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/496b1e34e42a9ff9fa9a2cb1ef73bdcb/1040g00831feckv64ma005ndschg0870qlta17ko!nd_dft_wlteh_webp_3', 'trace_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/5b7b10745dab53b20ec28b2c101b4da2/1040g00831feckv64ma005ndschg0870qlta17ko!nd_prv_wlteh_webp_3', 'stream': {}, 'live_photo': False, 'height': 1600, 'width': 1200, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/496b1e34e42a9ff9fa9a2cb1ef73bdcb/1040g00831feckv64ma005ndschg0870qlta17ko!nd_dft_wlteh_webp_3'}], 'at_user_list': [], 'time': 1742864197000, 'xsec_token': 'ABS4aOjOL4U5Vf8WOPUaNps8ruyU9Ym9pvg7p-e2Sjsvs=', 'xsec_source': None}, {'desc': '“AI不会淘
+        汰人， 但不会使用AI人会被淘汰”， 这是这几天的感触。\ n这两天注册了claude的AI大模型， 简单测试了两个案例。\ n第一个案例， 就一句话让他在线生成一
+    个班级点名软件。 没想到他一分钟就给我做出来了， 而且要比人写的更有周全， 方便， 特别厉害的是， 还能在线运行， 这让很多不会编程的人， 他们有机会
+    可以通过这种AI工具， 做一些常用的办公软件。\ n我记得大学的时候， 我接私活帮一个老师做过一个点名小软件赚了200， 只实现了功能， UI样式还没有这么
+    美观， 放到现在这个AI时代， 这些基本的小活， 只要自己表达好， 都不需要懂编程就能干了。\ n第二个案例， 我是喂了一张UI图， 让他给我用前端代码写出
+    来， 也是分分钟给我画出来了。 还原度虽然不是特别高， 但是基本的样式结构都差不多。 不过这只是我只给他丢了一张图的情况下， 一分钟做出来的效果，
+    如果我把UI所有的素材都丢给它， 再描述详细点， 那还原度是不是更高。\ n其实这种场景特别适合程序员接私活做小项目， 有一些客户对UI有要求的， 可以
+    用他来优化前端页面。\ n说起UI， 听说现在figma也可以通过AI， 来生成UI设计图了， 包括一些产品原型图也有一些特别好用的工具。\ n再结合cursor这些AI编辑器， 一个人真的可以当一个团队用。 也有一个前提就是， 我们要对一个项目的周期有很好的认识， 从产品设计， UI设计， 前端开发， 后端开发， 测试，
+    运维， 以及每个项目上线不同环境的基本流程。\ n特别‼️ 重要的是， 我们要有好的表达能力， 把自己的想法表达出来， 让AI去干活。\ n所以大家要去接触AI， 使用AI来提高工作的效率， 让我们有很多的时间去干别的事情。\ n# 程序员[话题]## 软件开发[话题]## 小程序开发[话题]## AI[话题]## cursor[话题]## claude[话题]## figma[话题]## 副业[话题]## 软件定制开发[话题]## 你们会用AI干活吗？[PK]#
+    ', '
+    user ': {'
+    avatar ': '
+    https: //sns-avatar-qc.xhscdn.com/avatar/6460f653f9ef96cf85921fb1.jpg', 'xsec_token': 'ABFZBEeGWqA83LLi-TcDDBw6pYemuagvrrhVeeLXOfZVM=', 'user_id': '634cbadf000000001901d06e', 'nickname': '深漂程序员犬夜叉'}, 'interact_info': {'collected': False, 'collected_count': '29', 'comment_count': '8', 'share_count': '10', 'followed': False, 'relation': 'none', 'liked': False, 'liked_count': '50'}, 'tag_list': [{'id': '5bf54ae0e1921600011295f8', 'name': '程序员', 'type': 'topic'}, {'id': '5c0f70b73767f600014af155', 'name': '软件开发', 'type': 'topic'}, {'id': '5cac833d000000000f02a8d6', 'name': '小程序开发', 'type': 'topic'}, {'id': '5d6b7cdb000000000103e136', 'name': 'AI', 'type': 'topic'}, {'id': '626cdb20000000000100272a', 'name': 'cursor', 'type': 'topic'}, {'id': '6198f6380000000001002175', 'name': 'claude', 'type': 'topic'}, {'id': '5de8978f0000000001001c39', 'name': 'figma', 'type': 'topic'}, {'id': '5bea7a739ef9730001934b7f', 'name': '副业', 'type': 'topic'}, {'id': '604f25bc000000000101dfc4', 'name': '软件定制开发', 'type': 'topic'}, {'id': '137308873630298003', 'name': '你们会用AI干活吗？', 'type': 'interact_pk'}], 'time': 1741795781000, 'note_id': '67d1b1c5000000000e006d22', 'title': '27岁程序员，下班用AI做副业，布局30岁退路', 'at_user_list': [], 'last_update_time': 1741823199000, 'share_info': {'un_share': False}, 'type': 'normal', 'image_list': [{'file_id': '', 'width': 3024, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/0fe4ae8771dc269c81e0969c5f454222/notes_pre_post/1040g3k831eue3aji6o305oqcnbfmbk3e5ifcnn8!nd_dft_wlteh_webp_3', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/e544988237f8d3f77dce3f0214d5646e/notes_pre_post/1040g3k831eue3aji6o305oqcnbfmbk3e5ifcnn8!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/0fe4ae8771dc269c81e0969c5f454222/notes_pre_post/1040g3k831eue3aji6o305oqcnbfmbk3e5ifcnn8!nd_dft_wlteh_webp_3'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/0fe4ae8771dc269c81e0969c5f454222/notes_pre_post/1040g3k831eue3aji6o305oqcnbfmbk3e5ifcnn8!nd_dft_wlteh_webp_3', 'live_photo': False, 'height': 4032, 'trace_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/e544988237f8d3f77dce3f0214d5646e/notes_pre_post/1040g3k831eue3aji6o305oqcnbfmbk3e5ifcnn8!nd_prv_wlteh_webp_3', 'stream': {}}, {'file_id': '', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/c5f3e3092773af97bb74b201583edf65/notes_pre_post/1040g3k831eue3aji6o3g5oqcnbfmbk3ec0unuhg!nd_dft_wlteh_webp_3', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/6280fabcb6e1788657821b593b2cb3c4/notes_pre_post/1040g3k831eue3aji6o3g5oqcnbfmbk3ec0unuhg!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/c5f3e3092773af97bb74b201583edf65/notes_pre_post/1040g3k831eue3aji6o3g5oqcnbfmbk3ec0unuhg!nd_dft_wlteh_webp_3', 'height': 2560, 
+        'width': 1920,
+    'trace_id': '',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/6280fabcb6e1788657821b593b2cb3c4/notes_pre_post/1040g3k831eue3aji6o3g5oqcnbfmbk3ec0unuhg!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/c5f3e3092773af97bb74b201583edf65/notes_pre_post/1040g3k831eue3aji6o3g5oqcnbfmbk3ec0unuhg!nd_dft_wlteh_webp_3'
+    }],
+    'stream': {
+        'h265': [],
+        'h266': [],
+        'av1': [],
+        'h264': [{
+            'master_url': 'http://sns-video-qc.xhscdn.com/stream/1/10/19/01e7d1aae22d01ce01005003958cc0ef0e_19.mp4?sign=0f24dab4672cd96308cf06035ca7873a&t=6885bc44',
+            'backup_urls': ['http://sns-bak-v6.xhscdn.com/stream/1/10/19/01e7d1aae22d01ce01005003958cc0ef0e_19.mp4']
+        }]
+    },
+    'live_photo': True
+}, {
+    'file_id': '',
+    'height': 2560,
+    'width': 1920,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/61fdaf26c713bb586baa3921b0c198da/notes_pre_post/1040g3k831eue3aji6o405oqcnbfmbk3eag0ml08!nd_dft_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/61fdaf26c713bb586baa3921b0c198da/notes_pre_post/1040g3k831eue3aji6o405oqcnbfmbk3eag0ml08!nd_dft_wlteh_webp_3',
+    'stream': {
+        'h266': [],
+        'av1': [],
+        'h264': [{
+            'backup_urls': ['http://sns-bak-v6.xhscdn.com/stream/1/10/19/01e7d1aae425299d01005003958cc13849_19.mp4'],
+            'master_url': 'http://sns-video-qc.xhscdn.com/stream/1/10/19/01e7d1aae425299d01005003958cc13849_19.mp4?sign=01d3ff506de162ffd249cec22a096d1f&t=6885bc44'
+        }],
+        'h265': []
+    },
+    'live_photo': True,
+    'trace_id': '',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/05e89512e21c2d36e73ad1ebccb30b73/notes_pre_post/1040g3k831eue3aji6o405oqcnbfmbk3eag0ml08!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/61fdaf26c713bb586baa3921b0c198da/notes_pre_post/1040g3k831eue3aji6o405oqcnbfmbk3eag0ml08!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/05e89512e21c2d36e73ad1ebccb30b73/notes_pre_post/1040g3k831eue3aji6o405oqcnbfmbk3eag0ml08!nd_prv_wlteh_webp_3'
+}, {
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/a1277d55ba4ca116cc92565cd4168e69/notes_pre_post/1040g3k831eue3aji6o4g5oqcnbfmbk3elq5tgao!nd_prv_wlteh_webp_3',
+    'stream': {},
+    'live_photo': False,
+    'height': 2560,
+    'trace_id': '',
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/7163703cadd81420faa35ca45f969965/notes_pre_post/1040g3k831eue3aji6o4g5oqcnbfmbk3elq5tgao!nd_dft_wlteh_webp_3',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/a1277d55ba4ca116cc92565cd4168e69/notes_pre_post/1040g3k831eue3aji6o4g5oqcnbfmbk3elq5tgao!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/7163703cadd81420faa35ca45f969965/notes_pre_post/1040g3k831eue3aji6o4g5oqcnbfmbk3elq5tgao!nd_dft_wlteh_webp_3'
+    }],
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/7163703cadd81420faa35ca45f969965/notes_pre_post/1040g3k831eue3aji6o4g5oqcnbfmbk3elq5tgao!nd_dft_wlteh_webp_3',
+    'file_id': '',
+    'width': 1920
+}], 'xsec_token': 'AB1-dCtWNd28YeUepkFryvNiJThxgKoSLUhkaxhMRTEZ0=', 'xsec_source': None
+}, {
+    'user': {
+        'user_id': '6698e496000000000d026f72',
+        'nickname': '小红薯66F2BE97',
+        'avatar': 'https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315d0tcsc2o005pkosib3crrisd3u8q0',
+        'xsec_token': 'ABjgVTYOtB0IHAIrbmQ4ihXU5PlZQm9NPAF5eBqqal3UE='
+    },
+    'interact_info': {
+        'comment_count': '30',
+        'share_count': '25',
+        'followed': False,
+        'relation': 'none',
+        'liked': False,
+        'liked_count': '49',
+        'collected': False,
+        'collected_count': '33'
+    },
+    'image_list': [{
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/8db485afcfe01a1e87faef5ffb754c54/spectrum/1040g34o317jenuqm0o0g5pkosib3crrici733so!nd_prv_wlteh_webp_3',
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/88a875319be7cae5331fcd846a7ee876/spectrum/1040g34o317jenuqm0o0g5pkosib3crrici733so!nd_dft_wlteh_webp_3',
+        'live_photo': False,
+        'file_id': '',
+        'height': 1280,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/88a875319be7cae5331fcd846a7ee876/spectrum/1040g34o317jenuqm0o0g5pkosib3crrici733so!nd_dft_wlteh_webp_3',
+        'trace_id': '',
+        'width': 961,
+        'info_list': [{
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/8db485afcfe01a1e87faef5ffb754c54/spectrum/1040g34o317jenuqm0o0g5pkosib3crrici733so!nd_prv_wlteh_webp_3',
+            'image_scene': 'WB_PRV'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/88a875319be7cae5331fcd846a7ee876/spectrum/1040g34o317jenuqm0o0g5pkosib3crrici733so!nd_dft_wlteh_webp_3'
+        }],
+        'stream': {}
+    }, {
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/d656370ded370a1832614973fffe0eb9/spectrum/1040g0k0317jenusigm005pkosib3crri4grvf68!nd_prv_wlteh_webp_3',
+        'stream': {},
+        'file_id': '',
+        'height': 1280,
+        'info_list': [{
+            'image_scene': 'WB_PRV',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/d656370ded370a1832614973fffe0eb9/spectrum/1040g0k0317jenusigm005pkosib3crri4grvf68!nd_prv_wlteh_webp_3'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/abc404ee29f2e53836c42cb333c37fd8/spectrum/1040g0k0317jenusigm005pkosib3crri4grvf68!nd_dft_wlteh_webp_3'
+        }],
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/abc404ee29f2e53836c42cb333c37fd8/spectrum/1040g0k0317jenusigm005pkosib3crri4grvf68!nd_dft_wlteh_webp_3',
+        'live_photo': False,
+        'width': 960,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/abc404ee29f2e53836c42cb333c37fd8/spectrum/1040g0k0317jenusigm005pkosib3crri4grvf68!nd_dft_wlteh_webp_3',
+        'trace_id': ''
+    }],
+    'at_user_list': [],
+    'note_id': '66e10a64000000001e019eaa',
+    'title': '90后北漂男青 
+    年 | 副业编程老师月入4000！ ', '
+    tag_list ': [{'
+    id ': '
+    60566 a5000000000010039cc ', '
+    name ': '
+    攒钱日记 ', '
+    type ': '
+    topic '}, {'
+    id ': '
+    5 c63127c000000000d025902 ', '
+    name ': '
+    存钱打卡 ', '
+    type ': '
+    topic '}], '
+    time ': 1726024292000, '
+    last_update_time ': 1726024293000, '
+    share_info ': {'
+    un_share ': False}, '
+    type ': '
+    normal ', '
+    desc ': '
+    主业每月收入约两万， 但每月有一万四的房贷需要偿还。 为了增加收入和减轻经济压力， 我还兼职做编程老师， 时薪200元， 每月额外收入在2000到4000元之间。 生活中， 我非常注重节约， 力求在这座繁华城市中稳健前行！\ n昨日支出： 94 元\ n昨天早上因为时间紧迫， 我没
+    有吃早餐。 午餐在办公楼下简单解决， 花费23元。 晚上， 我有两小时的编程教学兼职， 赚了400元。 由于晚上结束得比较晚， 感觉相当疲惫， 所以选择了打车
+    回家， 花费了36元， 还有晚餐外卖花费35元。\ n兼职编程老师， 我遇到过各式各样的学生， 幼儿的认知发展阶段和成人不同， 因此在教授编程时， 需要将复
+    杂的编程概念简化为易于理解的语言和形式。 使用生活中的比喻， 比如把编程命令比作是制作三明治的步骤， 可以帮助孩子们更好地理解。\ n作为老师， 保
+    持耐心是教授幼儿的关键。 肯定他们的努力和进步， 而不仅仅是结果， 帮助他们建立自信和解决问题的能力。\ n我的副业不仅增加了收入， 更加丰富了我的
+    社会经验。 对于正在考虑副业的朋友们， 我想说， 找到自己喜欢并能带来收益的副业， 会在你的职业生涯中起到不可预见的积极作用。\ xa0# 攒钱日记[话题]#\ xa0\ xa0# 存钱打卡[话题]#
+    ', '
+    xsec_token ': '
+    ABOoUn_eiNdnWxmbJXNEJCt4I2b3oG9bN3zOPfSB_Dq6g = ', '
+    xsec_source ': None}, {'
+    at_user_list ': [], '
+    share_info ': {'
+    un_share ': False}, '
+    note_id ': '
+    67113 d34000000001402e5b2 ', '
+    type ': '
+    normal ', '
+    desc ': '
+    近期很多人私信问我， 怎么学编程， 编程难
+    不难。 我就下这里统一给大家答复一下， 因为我是做java的， 所以从java的方向回答。\ n1️⃣ 首先java怎么学， 如果有编程基础的， 可以找有经验的大佬，
+    整理一个java学习路线， 然后按学习路线去找学习视频， 自学就可以了； 如果你完全没有接触过编程， 我的建议你先去网上找一些视频看下， 看看能不能看
+    进去， 如果能， 那你可以找一个培训班， 进行系统的学习， 反之还是不要学了。\ n\ t\ n2️⃣ java难不难， 好不好入门。 其实学java入门不难， 学好了， 在一线
+    城市找到工作很容易月入过万。 不过就是竞争大， 35 岁要想未来规划。 其实程序员到了35岁， 还是有很多转型方向的， 比如做业务相关的， 做管理相关的。\ n[向右R] 切记： 在工作更重要的是学习业务知识， 因为这对于普通程序员来说， 它比技术更吃香。\ n\ t\ n📌 其实大多数行业， 到了一定的年纪， 都有危机。
+    所以不要过度慌张， 好好干， 可以一边谋生存， 一边谋发展。# 软件开发[话题]## 程序员[话题]## 小程序开发[话题]## 副业可以这么干[话题]#
+    ', '
+    user ': {'
+    user_id ': '
+    634 cbadf000000001901d06e ', '
+    nickname ': '
+    深漂程序员犬夜叉 ', '
+    avatar ': '
+    https: //sns-avatar-qc.xhscdn.com/avatar/6460f653f9ef96cf85921fb1.jpg', 'xsec_token': 'ABFZBEeGWqA83LLi-TcDDBw6pYemuagvrrhVeeLXOfZVM='}, 'image_list': [{'height': 4032, 'width': 3024, 'url': 
+        'http://sns-webpic-qc.xhscdn.com/202507240142/d7f861b3d2237b85c41119192400d066/1040g2sg3192gussp56705oqcnbfmbk3es4curj8!nd_dft_wlteh_webp_3',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/44042205a72d6abe98790c2934cbb4b6/1040g2sg3192gussp56705oqcnbfmbk3es4curj8!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/d7f861b3d2237b85c41119192400d066/1040g2sg3192gussp56705oqcnbfmbk3es4curj8!nd_dft_wlteh_webp_3'
+    }],
+    'file_id': '',
+    'trace_id': '',
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/44042205a72d6abe98790c2934cbb4b6/1040g2sg3192gussp56705oqcnbfmbk3es4curj8!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/d7f861b3d2237b85c41119192400d066/1040g2sg3192gussp56705oqcnbfmbk3es4curj8!nd_dft_wlteh_webp_3',
+    'stream': {
+        'h264': [{
+            'master_url': 'http://sns-video-qc.xhscdn.com/stream/10/19/01e7113d3214b82a01005003929e8fb755_19.mp4?sign=8eaa6ef34980f98fd6f835fe7d4acbfd&t=6885bc45',
+            'backup_urls': ['http://sns-bak-v6.xhscdn.com/stream/10/19/01e7113d3214b82a01005003929e8fb755_19.mp4']
+        }],
+        'h265': [],
+        'h266': [],
+        'av1': []
+    },
+    'live_photo': True
+}], 'tag_list': [{
+    'id': '5c0f70b73767f600014af155',
+    'name': '软件开发',
+    'type': 'topic'
+}, {
+    'id': '5bf54ae0e1921600011295f8',
+    'name': '程序员',
+    'type': 'topic'
+}, {
+    'name': '小程序开发',
+    'type': 'topic',
+    'id': '5cac833d000000000f02a8d6'
+}, {
+    'id': '5db8657d00000000020005d5',
+    'name': '副业可以这么干',
+    'type': 'topic'
+}], 'title': '27岁程序员，下班做副业，布局30岁的退路', 'interact_info': {
+    'collected_count': '24',
+    'comment_count': '19',
+    'share_count': '4',
+    'followed': False,
+    'relation': 'none',
+    'liked': False,
+    'liked_count': '49',
+    'collected': False
+}, 'time': 1729183029000, 'last_update_time': 1729237062000, 'xsec_token': 'ABn0jTzckRuNmS7hKptHl609znDyxnc8Bj5r7DzLlSvTM=', 'xsec_source': None
+}, {
+    'note_id': '66a83129000000002701c3bb',
+    'interact_info': {
+        'followed': False,
+        'relation': 'none',
+        'liked': False,
+        'liked_count': '54',
+        'collected': False,
+        'collected_count': '46',
+        'comment_count': '27',
+        'share_count': '19'
+    },
+    'image_list': [{
+        'file_id': '',
+        'height': 1660,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/da37254acd585ff59cf20b6766d809a8/1040g008315ru7rhugm005n2ji8t65m0qo5k4l5o!nd_dft_wlteh_webp_3',
+        'trace_id': '',
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/dd618efd0becf860933d2870dd95d577/1040g008315ru7rhugm005n2ji8t65m0qo5k4l5o!nd_prv_wlteh_webp_3',
+        'stream': {},
+        'live_photo': False,
+        'width': 1242,
+        'info_list': [{
+            'image_scene': 'WB_PRV',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/dd618efd0becf860933d2870dd95d577/1040g008315ru7rhugm005n2ji8t65m0qo5k4l5o!nd_prv_wlteh_webp_3'
+        }, {
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/da37254acd585ff59cf20b6766d809a8/1040g008315ru7rhugm005n2ji8t65m0qo5k4l5o!nd_dft_wlteh_webp_3',
+            'image_scene': 'WB_DFT'
+        }],
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/da37254acd585ff59cf20b6766d809a8/1040g008315ru7rhugm005n2ji8t65m0qo5k4l5o!nd_dft_wlteh_webp_3'
+    }, {
+        'file_id': '',
+        'width': 1907,
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/9a74d86a1792ad74a60e03a9a2c4e2e6/1040g008315ru7rhugm0g5n2ji8t65m0qlurv7l8!nd_prv_wgth_webp_3',
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/ea234560974bdf089faa6089fd1f7121/1040g008315ru7rhugm0g5n2ji8t65m0qlurv7l8!nd_dft_wgth_webp_3',
+        'height': 600,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/ea234560974bdf089faa6089fd1f7121/1040g008315ru7rhugm0g5n2ji8t65m0qlurv7l8!nd_dft_wgth_webp_3',
+        'trace_id': '',
+        'info_list': [{
+            'image_scene': 'WB_PRV',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/9a74d86a1792ad74a60e03a9a2c4e2e6/1040g008315ru7rhugm0g5n2ji8t65m0qlurv7l8!nd_prv_wgth_webp_3'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/ea234560974bdf089faa6089fd1f7121/1040g008315ru7rhugm0g5n2ji8t65m0qlurv7l8!nd_dft_wgth_webp_3'
+        }],
+        'stream': {},
+        'live_photo': False
+    }, {
+        'trace_id': '',
+        'info_list': [{
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/f3c426201556e09a4f5f5df37711fc41/1040g008315ru7rhugm105n2ji8t65m0qde32gsg!nd_prv_wgth_webp_3',
+            'image_scene': 'WB_PRV'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/69efeae696b6afce00517b2e94eca28a/1040g008315ru7rhugm105n2ji8t65m0qde32gsg!nd_dft_wgth_webp_3'
+        }],
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/f3c426201556e09a4f5f5df37711fc41/1040g008315ru7rhugm105n2ji8t65m0qde32gsg!nd_prv_wgth_webp_3',
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/69efeae696b6afce00517b2e94eca28a/1040g008315ru7rhugm105n2ji8t65m0qde32gsg!nd_dft_wgth_webp_3',
+        'file_id': '',
+        'height': 600,
+        'width': 1401,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/69efeae696b6afce00517b2e94eca28a/1040g008315ru7rhugm105n2ji8t65m0qde32gsg!nd_dft_wgth_webp_3',
+        'stream': {},
+        'live_photo': False
+    }, {
+        'height': 948,
+        'info_list': [{
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/543cf2be7572d2d313c38d3e28cb9ff3/1040g008315ru7rhugm1g5n2ji8t65m0q5f93h20!nd_prv_wlteh_webp_3',
+            'image_scene': 'WB_PRV'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/e2a21f5180bc995519c6fa5928b36cdd/1040g008315ru7rhugm1g5n2ji8t65m0q5f93h20!nd_dft_wlteh_webp_3'
+        }],
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/543cf2be7572d2d313c38d3e28cb9ff3/1040g008315ru7rhugm1g5n2ji8t65m0q5f93h20!nd_prv_wlteh_webp_3',
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/e2a21f5180bc995519c6fa5928b36cdd/1040g008315ru7rhugm1g5n2ji8t65m0q5f93h20!nd_dft_wlteh_webp_3',
+        'stream': {},
+        'live_photo': False,
+        'file_id': '',
+        'width': 854,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/e2a21f5180bc995519c6fa5928b36cdd/1040g008315ru7rhugm1g5n2ji8t65m0q5f93h20!nd_dft_wlteh_webp_3',
+        'trace_id': ''
+    }],
+    'tag_list': [{
+        'id': '5e9e6607000000000100bea1',
+        'name': '那些赚钱的副业',
+        'type': 'topic'
+    }, {
+        'type': 'topic',
+        'id': '5584245fb4c4d610f909a944',
+        'name': '不想上班'
+    }, {
+        'id': '5bea7a739ef9730001934b7f',
+        'name': '副业',
+        'type': 'topic'
+    }, {
+        'id': '5e5104e3000000000100037d',
+        'name': '副业心得',
+        'type': 'topic'
+    }, {
+        'id': '6481e976000000002201e3e9',
+        'name': '编程副业',
+        'type': 'topic'
+    }, {
+        'id': '608b992400000000010089c5',
+        'name': 'python',
+        'type': 'topic'
+    }, {
+        'type': 'topic',
+        'id': '652f87250000000001011b65',
+        'name': '贴上就是桂花味'
+    }, {
+        'id': '5db8657d00000000020005d5',
+        'name': '副业可以这么干',
+        'type': 'topic'
+    }, {
+        'name': '自由职业',
+        'type': 'topic',
+        'id': '5bf3eb285fb4e60001969954'
+    }],
+    'at_user_list': [],
+    'last_update_time': 1722298665000,
+    'type': 'normal',
+    'title': '分享 ｜
+    靠写代码副业收入3w， 但很累 ', '
+    desc ': '
+    朋友们好久不见啦， 最近有小伙伴私信我怎么把之前的帖子都关起来了， 今天想和大家分享一下原因， 以及我在
+    过去一年里怎么通过接单写代码赚了3w米的。\ n🔍【 起步】\ n首先就是在去年2023年的7月21日， 我发了第一篇写代码接单的帖子。 最开始是因为养猫， 想给
+    家里的猫猫们赚点罐头， 所以我决定开始我的副业之旅。 作为一个程序员， 我选择了通过自己的专业技能写代码接单。 起初， 我对这个领域一无所知， 傻乎
+    乎的以为真的只要发帖就会有人来下单， 我相信有很多的朋友也是和我一样的想法哈哈。\ n💼【 过程】\ n副业的过程并不容易。 我需要在完成主业的同时，
+    挤出时间来接单。 有时候， 为了满足客户的需求， 晚上在公司加完班后回家继续加班到深夜。 但每当看到自己的代码被朋友们认可， 心里还是蛮高兴的。 不
+    过更多的是心累， 沟通成本太高了， 还会有返工的风险[哭惹R]\ n💰【 收获】\ n截止到上周， 刚好一年， 完成了最后一个🍠 的项目， 通过接单累计赚到了3个
+    达不溜。 虽然这个数字在很多副业大佬看来可能微不足道， 但也好过没有吧哈哈。\ n🚀【 以后】\ n这一年还挺多感触的， 从沟通到独立开发， 再到交付， 踩
+    过坑也有意外之喜， 今天以后就不接单啦， 想要尝试一下做一些别的副业， 后续也会在这里记录的~\n🙏【 感谢】\ n最后真的是我要感谢🍠 朋友们。 虽然有很
+    多单子没有接到， 但是也谢谢你们肯给我机会。\ nP2是发布第一篇帖子的时间。\ nP3是突然开始好多人来找我的帖子， 数据好差哦， 但是却没想到很多人来
+    找我是因为这篇大A的需求帖子；\ nP4是我最想感谢的一个🍠 妹妹， 中途其实就有想过放弃， 但是她真的好会给我上情绪价值！！\ n如果朋友们有什么副业想
+    法交流， 可以私聊我， 我们一起交流交流~\n# 那些赚钱的副业[话题]## 不想上班[话题]## 副业[话题]## 副业心得[话题]## 编程副业[话题]## python[话 题]## 贴上就是桂花味[话题]## 副业可以这么干[话题]## 自由职业[话题]#
+    ', '
+    user ': {'
+    user_id ': '
+    5 c53923a000000001802d81a ', '
+    nickname ': '
+    Gooood guy ', '
+    avatar ': '
+    https: //sns-avatar-qc.xhscdn.com/avatar/6265418caf375da0a448761c.jpg', 'xsec_token': 'ABGQP6fwJ6iFcIn_b5uuedDG1_N7jsSQ2Abymp9EonmAI='}, 'time': 1722298665000, 'share_info': {'un_share': False}, 'xsec_token': 'AB9tAehciRnCHRpdtzlzXKf9zy6ZvHi2eMaFhsULu-KUU=', 'xsec_source': None}, {'note_id': '66124b41000000001b00dc46', 'title': '前端接单，程序员混口饭吃', 'user': {'user_id': '64e5ad9a0000000001006a69', 'nickname': '前端橙子君', 'avatar': 'https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qc8gk20o005p75lmd08qj9ad7md08', 'xsec_token': 'ABA_LPta31PubDVmHBmlKuOkzmwhZLWbITiknWyfXktVU='}, 'image_list': [{'file_id': '', 'width': 1280, 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/44d387369f3d05750efa55e37e19f0ae/1040g2sg3119htp206e005p75lmd08qj902kphg0!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/85afc75e9a56f674f22d3f6297e5c074/1040g2sg3119htp206e005p75lmd08qj902kphg0!nd_dft_wlteh_webp_3'}], 'stream': {}, 'height': 1707, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/85afc75e9a56f674f22d3f6297e5c074/1040g2sg3119htp206e005p75lmd08qj902kphg0!nd_dft_wlteh_webp_3', 'trace_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/44d387369f3d05750efa55e37e19f0ae/1040g2sg3119htp206e005p75lmd08qj902kphg0!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/85afc75e9a56f674f22d3f6297e5c074/1040g2sg3119htp206e005p75lmd08qj902kphg0!nd_dft_wlteh_webp_3', 'live_photo': False}, {'live_photo': False, 'height': 1707, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/85c1861f9b938902ede04601500526c2/1040g2sg3119htp206e0g5p75lmd08qj9pn3l2ag!nd_dft_wlteh_webp_3', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/382af10fecfa8292d369083f20efee20/1040g2sg3119htp206e0g5p75lmd08qj9pn3l2ag!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/85c1861f9b938902ede04601500526c2/1040g2sg3119htp206e0g5p75lmd08qj9pn3l2ag!nd_dft_wlteh_webp_3'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/85c1861f9b938902ede04601500526c2/1040g2sg3119htp206e0g5p75lmd08qj9pn3l2ag!nd_dft_wlteh_webp_3', 'stream': {}, 'file_id': '', 'width': 1280, 'trace_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/382af10fecfa8292d369083f20efee20/1040g2sg3119htp206e0g5p75lmd08qj9pn3l2ag!nd_prv_wlteh_webp_3'}, {'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/fc80a096181a11ffa2a4050fef08b148/1040g2sg3119htp206e105p75lmd08qj9moaqaj0!nd_dft_wlteh_webp_3', 'file_id': '', 'height': 1707, 'width': 1280, 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/2ba5d8c00ca88948b9e3fb26c7cfe8ad/1040g2sg3119htp206e105p75lmd08qj9moaqaj0!nd_prv_wlteh_webp_3', 'live_photo': False, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/fc80a096181a11ffa2a4050fef08b148/1040g2sg3119htp206e105p75lmd08qj9moaqaj0!nd_dft_wlteh_webp_3', 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2ba5d8c00ca88948b9e3fb26c7cfe8ad/1040g2sg3119htp206e105p75lmd08qj9moaqaj0!nd_prv_wlteh_webp_3'}, {'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/fc80a096181a11ffa2a4050fef08b148/1040g2sg3119htp206e105p75lmd08qj9moaqaj0!nd_dft_wlteh_webp_3', 'image_scene': 'WB_DFT'}], 'stream': {}}, {'height': 1707, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/08b99a3fb284260e613801a706b74ce7/1040g2sg3119htp206e1g5p75lmd08qj9cj25678!nd_dft_wlteh_webp_3', 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/03abe1d343ee62a210a049cb415f2a0f/1040g2sg3119htp206e1g5p75lmd08qj9cj25678!nd_prv_wlteh_webp_3'}, {'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/08b99a3fb284260e613801a706b74ce7/1040g2sg3119htp206e1g5p75lmd08qj9cj25678!nd_dft_wlteh_webp_3', 'image_scene': 'WB_DFT'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/08b99a3fb284260e613801a706b74ce7/1040g2sg3119htp206e1g5p75lmd08qj9cj25678!nd_dft_wlteh_webp_3', 'live_photo': False, 'file_id': '', 'width': 1280, 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/03abe1d343ee62a210a049cb415f2a0f/1040g2sg3119htp206e1g5p75lmd08qj9cj25678!nd_prv_wlteh_webp_3', 'stream': {}}], 'tag_list': [{'id': '5c8cfc52000000000f02d88f', 'name': '前 
+        端 ', '
+    type ': '
+    topic '}, {'
+    id ': '
+    611e21890000000001006 e99 ', '
+    name ': '
+    后端开发 ', '
+    type ': '
+    topic '}, {'
+    type ': '
+    topic ', '
+    id ': '
+    61 c6f846000000000100478e ', '
+    name ': '
+    前端接单 '}, {'
+    id ': '
+    5 c8c9ab4000000000e028e66 ', '
+    name ': '
+    前端开发 ', '
+    type ': '
+    topic '}, {'
+    id ': '
+    63103 df7000000000101eb06 ', '
+    name ': '
+    前端接单来 ', '
+    type ': '
+    topic '}, {'
+    id ': '
+    63e27 f1d0000000001009f57 ', '
+    name ': '
+    前端页面接单 ', '
+    type ': '
+    topic '}, {'
+    name ': '
+    web前端
+    接单 ', '
+    type ': '
+    topic ', '
+    id ': '
+    6209 b939000000000100a875 '}, {'
+    id ': '
+    5 d4fcfac000000000d016676 ', '
+    name ': '
+    计算机毕业设计 ', '
+    type ': '
+    topic '}], '
+    share_info ': {'
+    un_share ': False}, '
+    type ': '
+    normal ', '
+    desc ': '
+    1️⃣ 为什么重拾前端接单私活？\ n成为前端团队leader后， 接触代码的时间越来越
+    少了， 可我踏入这个行业就是因为热爱代码！\ n2️⃣ 接单能带来什么？\ n去年接了不少单， 帮助了不少的毕业生同学完成了毕设， 这其中的快乐和成就感也
+    是我接单的原因之一🌟 后几张图片是接单记录！\ n3️⃣ 可以做什么单？\ n主营前端： 前端开发、 网页制作、 html， css， js网页设计、 web网页制作、 小程
+    序， 管理后台， PC / 移动端， 可响应式布局。\ n前端开发， 小程序， PC / 端开发\ n技术栈: html5， CSS， Vue2， Vue3 .0， JavaScript， Type Script， uniapp，
+    jQuery， ElementUI， vant， vite项目构建！\ n辅助后端： 不太复杂的Java， python后端接口也是可以的。\ n# 前端[话题]## 后端开发[话题]## 前端接单[话 题]## 前端开发[话题]## 前端接单来[话题]## 前端页面接单[话题]## web前端接单[话题]## 计算机毕业设计[话题]#
+    ', '
+    interact_info ': {'
+    comment_count ': '
+    139 ', '
+    share_count ': '
+    14 ', '
+    followed ': False, '
+    relation ': '
+    none ', '
+    liked ': False, '
+    liked_count ': '
+    49 ', '
+    collected ': False, '
+    collected_count ': '
+    17 '}, '
+    at_user_list ': [], '
+    time ': 1712474945000, '
+    last_update_time ': 1714977467000, '
+    xsec_token ': '
+    ABzIgI301JwrKOs5Vw1AYjyTyH8Eh5285bPRAlz2gqv10 = ', '
+    xsec_source ': None}, {'
+    title ': '
+    收藏这四个网站,
+    宅家也能赚美刀!', '
+    desc ': '
+    hello大家好呀，\ n之前有不少小伙伴问我怎
+    么在国内赚美元，\ n今天就来分享4个我亲自测试过的赚美金渠道！\ n - \n💎 渠道一： Adobe Stock\ n把你的设计作品上传到平台， 一张图可以多次出售， 轻
+    松实现躺赚。\ n - \n🌟 渠道二： Toptal\ n这是一个高端远程项目平台， 通过技能测试后， 可以接到时薪50 - 150 美金的优质项目。\ n - \n💻 渠道三： Fiverr\ n
+    把你的技能打包成固定服务， 设置好价格后， 等着客户主动来找你合作。\ n - \n🎯 渠道四： Upwork\ n全球最大的远程工作平台， 设计、 文案、 翻译、 编程都
+    能接到欧美客户的高价项目。\ n - \n最后分享一个小技巧： 建议先选择一个平台深耕， 把评价和信誉刷起来， 再考虑多平台发展。\ n - \n祝大家都能成功赚美
+    刀！\ n\ufeff# 被动收入[话题]# \ufeff \ufeff# 赚美金副业[话题]# \ufeff \ufeff# adobestock[话题]# \ufeff \ufeff# midjourney[话题]# \ufeff ', '
+    interact_info ': {'
+    comment_count ': '
+    7 ', '
+    share_count ': '
+    5 ', '
+    followed ': False, '
+    relation ': '
+    none ', '
+    liked ': False, '
+    liked_count ': '
+    42 ', '
+    collected ': False, '
+    collected_count ': '
+    48 '}, '
+    image_list ': [{'
+    file_id ': '
+    ', '
+    width ': 1280, '
+    trace_id ': '
+    ', '
+    info_list ': [{'
+    image_scene ': '
+    WB_PRV ', '
+    url ': '
+    http: //sns-webpic-qc.xhscdn.com/202507240142/279315efc6ac43853eee5c7569511cfb/spectrum/1040g0k031ctcdigi16005pjbrgo7g7avs1lh9e0!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/e8815dcd6c92f4b6fb0cccaf93105cec/spectrum/1040g0k031ctcdigi16005pjbrgo7g7avs1lh9e0!nd_dft_wlteh_webp_3'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/e8815dcd6c92f4b6fb0cccaf93105cec/spectrum/1040g0k031ctcdigi16005pjbrgo7g7avs1lh9e0!nd_dft_wlteh_webp_3', 'live_photo': False, 'height': 1677, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/e8815dcd6c92f4b6fb0cccaf93105cec/spectrum/1040g0k031ctcdigi16005pjbrgo7g7avs1lh9e0!nd_dft_wlteh_webp_3', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/279315efc6ac43853eee5c7569511cfb/spectrum/1040g0k031ctcdigi16005pjbrgo7g7avs1lh9e0!nd_prv_wlteh_webp_3', 'stream': {}}, {'height': 1677, 'width': 1280, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/8631365ccbfed0de5120c96caf3462d6/spectrum/1040g0k031ctcdigi160g5pjbrgo7g7avhnmas8o!nd_dft_wlteh_webp_3', 'trace_id': '', 'info_list': [{'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/5837d662681055227bafb31e6429a465/spectrum/1040g0k031ctcdigi160g5pjbrgo7g7avhnmas8o!nd_prv_wlteh_webp_3', 'image_scene': 'WB_PRV'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/8631365ccbfed0de5120c96caf3462d6/spectrum/1040g0k031ctcdigi160g5pjbrgo7g7avhnmas8o!nd_dft_wlteh_webp_3'}], 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/5837d662681055227bafb31e6429a465/spectrum/1040g0k031ctcdigi160g5pjbrgo7g7avhnmas8o!nd_prv_wlteh_webp_3', 'stream': {}, 'file_id': '', 'live_photo': False, 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/8631365ccbfed0de5120c96caf3462d6/spectrum/1040g0k031ctcdigi160g5pjbrgo7g7avhnmas8o!nd_dft_wlteh_webp_3'}, {'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/70e2c53877f07caa4c4ab2fdbdf082c9/spectrum/1040g0k031ctcdigi16105pjbrgo7g7avvcblfng!nd_dft_wlteh_webp_3', 'stream': {}, 'live_photo': False, 'file_id': '', 'width': 1280, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/70e2c53877f07caa4c4ab2fdbdf082c9/spectrum/1040g0k031ctcdigi16105pjbrgo7g7avvcblfng!nd_dft_wlteh_webp_3', 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/1837b9fcaf6d9c58e232d74540c0d38c/spectrum/1040g0k031ctcdigi16105pjbrgo7g7avvcblfng!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/70e2c53877f07caa4c4ab2fdbdf082c9/spectrum/1040g0k031ctcdigi16105pjbrgo7g7avvcblfng!nd_dft_wlteh_webp_3'}], 'height': 1690, 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/1837b9fcaf6d9c58e232d74540c0d38c/spectrum/1040g0k031ctcdigi16105pjbrgo7g7avvcblfng!nd_prv_wlteh_webp_3'}, {'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/045691acdeaffe2a2b4e1e9bfee7a910/spectrum/1040g0k031ctcdigi161g5pjbrgo7g7avv2olcao!nd_dft_wlteh_webp_3', 'live_photo': False, 
+        'height': 1677,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/045691acdeaffe2a2b4e1e9bfee7a910/spectrum/1040g0k031ctcdigi161g5pjbrgo7g7avv2olcao!nd_dft_wlteh_webp_3',
+    'trace_id': '',
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/2a881a020847265f51c6d014ae987b6f/spectrum/1040g0k031ctcdigi161g5pjbrgo7g7avv2olcao!nd_prv_wlteh_webp_3',
+    'stream': {},
+    'file_id': '',
+    'width': 1280,
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2a881a020847265f51c6d014ae987b6f/spectrum/1040g0k031ctcdigi161g5pjbrgo7g7avv2olcao!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/045691acdeaffe2a2b4e1e9bfee7a910/spectrum/1040g0k031ctcdigi161g5pjbrgo7g7avv2olcao!nd_dft_wlteh_webp_3'
+    }]
+}], 'time': 1737428181000, 'last_update_time': 1737428181000, 'note_id': '678f0cd5000000001800c57a', 'type': 'normal', 'user': {
+    'avatar': 'https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b60q8phno6g5pjbrgo7g7avuk5u6s0',
+    'xsec_token': 'AB-8TukmScTcYMFVJsx7zBOX7T_w0Lgs6Die1M4SsnBFM=',
+    'user_id': '666bdc30000000001e001d5f',
+    'nickname': '小李的学习之路'
+}, 'tag_list': [{
+    'id': '5c0341007c10ee00011afef6',
+    'name': '被动收入',
+    'type': 'topic'
+}, {
+    'id': '64faf1e5000000000e004878',
+    'name': '赚美金副业',
+    'type': 'topic'
+}, {
+    'id': '63b7a1440000000001007111',
+    'name': 'adobestock',
+    'type': 'topic'
+}, {
+    'name': 'midjourney',
+    'type': 'topic',
+    'id': '6280df950000000001005ee7'
+}], 'at_user_list': [], 'share_info': {
+    'un_share': False
+}, 'xsec_token': 'ABebVa9RgCh9otcM6DmHYNwhMvknV69SOSikcYhnNQHnc=', 'xsec_source': None
+}, {
+    'title': '每周避坑一种副业3/4-Python接单',
+    'interact_info': {
+        'followed': False,
+        'relation': 'none',
+        'liked': False,
+        'liked_count': '43',
+        'collected': False,
+        'collected_count': '23',
+        'comment_count': '13',
+        'share_count': '4'
+    },
+    'tag_list': [{
+        'id': '629f06130000000001003543',
+        'name': '创业',
+        'type': 'topic'
+    }, {
+        'id': '5c524df4000000001c025b44',
+        'name': '搞钱',
+        'type': 'topic'
+    }, {
+        'id': '5be0478174881c00015598f9',
+        'name': '赚钱',
+        'type': 'topic'
+    }, {
+        'type': 'topic',
+        'id': '5bea7a739ef9730001934b7f',
+        'name': '副业'
+    }, {
+        'id': '5c3cb63a000000000f001c0b',
+        'name': '避坑',
+        'type': 'topic'
+    }, {
+        'type': 'topic',
+        'id': '5c36ea1d000000000f0012d7',
+        'name': '避坑指南'
+    }, {
+        'id': '5db8657d00000000020005d5',
+        'name': '副业可以这么干',
+        'type': 'topic'
+    }, {
+        'id': '5bef8bc0b342a9000177e798',
+        'name': '商业思维',
+        'type': 'topic'
+    }, {
+        'id': '608b992400000000010089c5',
+        'name': 'python',
+        'type': 'topic'
+    }, {
+        'name': 'Python',
+        'type': 'topic',
+        'id': '5d35dd9b000000000e0088dc'
+    }],
+    'last_update_time': 1734708713000,
+    'at_user_list': [],
+    'time': 1734708712000,
+    'share_info': {
+        'un_share': False
+    },
+    'note_id': '67658de8000000000800cfe7',
+    'type': 'normal',
+    'desc': '蕞近看到不少广告在推
+    广xue习Python后接单作为副业， 宣称“ 技能变现、 轻松赚外快、 月入过万”。 我深入了解了一番， 发现现实与宣传相去甚远， 今天咱们就来聊聊这个让我曾经
+    心动甚至想花钱学xi然后副业变现的领域背后的真实情况。\ n\ t\ nshou先， 咱们得说说时间投入。 掌握Python， 从基础到能接项目， 至少需要数月的刻苦学xi， 这还不包括实践和深化的时间。 而且， 编程工作往往需要大量时间投入， 你的生活可能会被代码占据。\ n\ t\ n再来说说成ben。 很多人以为学编程只需一
+    台电脑， 其实还有不少隐藏成ben。 比如， 你可能需要买在线课程、 参加工作坊、 订阅技术社区， 甚至为了跟上技术发展， 还得不断更新学xi资料和工具。\ n\ t\ n接着是沟通和风险。 编程不仅仅是和电脑打交道， 你还需要和客户、 团队沟通。 不同项目的需求千差万别， 有的需要高度定制化， 有的对性能要求极高。 万一项目没做好， 或者被投诉代码质量不行， 你的声誉和职业生涯都可能受到影响。\ n\ t\ n价格方面也颇有争议。 市场上Python开发者的报价差异巨大，
+    初学者可能因为缺乏经验而难以获得高额报酬。 而且， 自由职业者往往需要自己承担营销和客户管理的责任， 这些都是额外的成ben。\ n\ t\ n如果你想尝试这
+    条路， 我建议先考虑几个问题： 你对编程的热情是否足够？ 是否愿意投入大量时间学xi？ 是否能够承受项目失败的压力？ 是否具备解jue问题的能力？\ n\ t\ n这份工作更适合那些对编程有热情、 愿意不断学xi、 逻辑清晰、 耐心细致的人。 蕞好是先从个人项目或者开源社区开始， 慢慢积累经验和技能。\ n\ t\ n总的
+    来说， 学xiPython作为副业确实有市场， 但想靠它赚大米还是挺难的。 它更适合那些把它当作一个长期技能来培养的人， 慢慢积累经验做到精通， 不断提升
+    自己的技术水平。\ n\ufeff# 创业[话题]# \ufeff \ufeff# 搞钱[话题]# \ufeff \ufeff# 赚钱[话题]# \ufeff \ufeff# 副业[话题]# \ufeff \ufeff# 避坑[话题]# \ufeff \ufeff# 避坑指南[话题]# \ufeff \ufeff# 副业可以这么干[话题]# \ufeff \ufeff# 商业思维[话题]# \ufeff \ufeff# python[话题]# \ufeff \ufeff# Python[话题]# \ufeff ', '
+    user ': {'
+    user_id ': '
+    5 bbd48be18d7e300017dce8f ', '
+    nickname ': '
+    元宝团子（ AI出海版） ', '
+    avatar ': '
+    https: //sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jsj2d5vk8604bctlk4btjkffv80ue8', 'xsec_token': 'ABji1NeiuHmjEQ3ppSyIugGr1F_i8c943VLVk62SSU1yo='}, 'image_list': [{'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/ed8904209ed7015055443d6f6f525d9d/spectrum/1040g0k031bkre9o0h6004bctlk4btjkfeovtfo8!nd_dft_wlteh_webp_3', 'trace_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/17cbaaf425dc89daf98568cacb37c13f/spectrum/1040g0k031bkre9o0h6004bctlk4btjkfeovtfo8!nd_prv_wlteh_webp_3', 'live_photo': False, 'file_id': '', 'height': 1706, 'width': 1280, 'info_list': [{'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/17cbaaf425dc89daf98568cacb37c13f/spectrum/1040g0k031bkre9o0h6004bctlk4btjkfeovtfo8!nd_prv_wlteh_webp_3', 'image_scene': 'WB_PRV'}, {'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/ed8904209ed7015055443d6f6f525d9d/spectrum/1040g0k031bkre9o0h6004bctlk4btjkfeovtfo8!nd_dft_wlteh_webp_3', 'image_scene': 'WB_DFT'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/ed8904209ed7015055443d6f6f525d9d/spectrum/1040g0k031bkre9o0h6004bctlk4btjkfeovtfo8!nd_dft_wlteh_webp_3', 'stream': {}}], 'xsec_token': 'AB02WQtaPAhMZyz1GmOnNKMl40xmDREfLoNMb8D7CFnlU=', 'xsec_source': None}, {'at_user_list': [], 'note_id': '66e7d933000000002603342d', 'user': {'xsec_token': 'AB4TDB3mr4fqNc_aHHvI3hVZYqZ-EM6k--YpvmgUfDn4E=', 'user_id': '606bb43000000000010093da', 'nickname': '小青柠', 'avatar': 'https://sns-avatar-qc.xhscdn.com/avatar/643d5d4ee53d4325428e30b6.jpg'}, 'tag_list': [{'id': '5cb03144000000000e0318c4', 'name': '晒晒我的桌面', 'type': 'topic'}, {'id': '5be6f604db601f0001f98c11', 'name': '编程', 'type': 'topic'}, {'type': 'topic', 'id': '5bcf47af7642f11051a33504', 'name': '没想到你是这样的程序员'}, {'id': '629f06130000000001003543', 'name': '创业', 'type': 'topic'}, {'id': '5be01601758b8000015dbe15', 'name': '创业坦白局', 'type': 'topic'}], 'interact_info': {'liked_count': '36', 'collected': False, 'collected_count': '10', 'comment_count': '3', 'share_count': '7', 'followed': False, 'relation': 'none', 'liked': False}, 'image_list': [{'live_photo': False, 'file_id': '', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/55b8b031f1213b05b65f62c7b9dfc4a9/1040g008317q3g8g1ju005o3bmgo094uq2fjgv4o!nd_dft_wlteh_webp_3', 'trace_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/c2970abe345a67d5da75fa3df3736466/1040g008317q3g8g1ju005o3bmgo094uq2fjgv4o!nd_prv_wlteh_webp_3', 'stream': {}, 'height': 1920, 'width': 1440, 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/c2970abe345a67d5da75fa3df3736466/1040g008317q3g8g1ju005o3bmgo094uq2fjgv4o!nd_prv_wlteh_webp_3'}, {'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/55b8b031f1213b05b65f62c7b9dfc4a9/1040g008317q3g8g1ju005o3bmgo094uq2fjgv4o!nd_dft_wlteh_webp_3', 'image_scene': 'WB_DFT'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/55b8b031f1213b05b65f62c7b9dfc4a9/1040g008317q3g8g1ju005o3bmgo094uq2fjgv4o!nd_dft_wlteh_webp_3'}], 'video': {'consumer': {'origin_video_key': 'pre_post/1040g2t0317q3ehqe3q705o3bmgo094uqvq4ejs0'}, 'media': {'video_id': 137051757399064273, 'video': {'biz_name': 110, 'biz_id': '281166946816963629', 'duration': 33, 'md5': '2b99eefdf6c036f2bb86fc62dcf61a91', 'hdr_type': 1, 'drm_type': 0, 'stream_types': [259]}, 'stream': {'h264': [{'stream_desc': 'WM_X264_MP4', 'avg_bitrate': 844242, 'audio_codec': 'aac', 'duration': 32534, 'video_duration': 32533, 'rotate': 0, 'width': 720, 'fps': 60, 'video_bitrate': 771209, 'master_url': 'http://sns-video-qc.xhscdn.com/stream/110/259/01e6e7d8e39d3ed10103700391f9aa99b2_259.mp4?sign=f7d90c4335ef1f651ff1ee33d247b541&t=6885bc47', 'height': 1280, 'quality_type': 'HD', 'format': 'mp4', 'backup_urls': ['http://sns-bak-v6.xhscdn.com/stream/110/259/01e6e7d8e39d3ed10103700391f9aa99b2_259.mp4'], 'vmaf': -1, 'ssim': 0, 'default_stream': 0, 'volume': 0, 'audio_bitrate': 64231, 'audio_channels': 2, 'stream_type': 259, 'size': 3433322, 'video_codec': 'h264', 'audio_duration': 32529, 'hdr_type': 0, 'psnr': 0, 'weight': 62}], 'h265': [], 'h266': [], 'av1': []}}, 'image': {'first_frame_fileid': '110/0/01e6e7d8e39d3ed100100000000191f9a879dd_0.jpg', 'thumbnail_fileid': 'thumbnail/bf95ebafb31c4e3fbcbe30d4247ca2b3'}, 'capa': {'duration': 32}}, 'time': 1726470451000, 'last_update_time': 1726470451000, 'type': 'video', 'title': '台风天儿，程序员居家coding副业进行 
+        中 ', '
+    desc ': '
+    外面刮着风， 下着雨， 屋里安安静静的， 敲着代码， 没有比这个更惬意的， 还拿着工资赚者副业， 完美的很# 晒晒我的桌面[话题]## 编程[话 题]## 没想到你是这样的程序员[话题]## 创业[话题]## 创业坦白局[话题]#
+    ', '
+    share_info ': {'
+    un_share ': False}, '
+    xsec_token ': '
+    ABCYnj21xXAcxooVs7OfduKAvr8pW5gDsrgIsZ8R4dYh8 = ', '
+    xsec_source ': None}, {'
+    image_list ': [{'
+    file_id ': '
+    ', '
+    url ': '
+    http: //sns-webpic-qc.xhscdn.com/202507240142/d07e083beda7487d734728bf2a6e43b4/1040g2sg31g10d31bgg704a4cuclf5fgv0tt3uk0!nd_dft_wlteh_webp_3', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/558ebfd42b66105f95fbe73dd6ac321a/1040g2sg31g10d31bgg704a4cuclf5fgv0tt3uk0!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/d07e083beda7487d734728bf2a6e43b4/1040g2sg31g10d31bgg704a4cuclf5fgv0tt3uk0!nd_dft_wlteh_webp_3'}], 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/558ebfd42b66105f95fbe73dd6ac321a/1040g2sg31g10d31bgg704a4cuclf5fgv0tt3uk0!nd_prv_wlteh_webp_3', 'stream': {}, 'live_photo': False, 'height': 2560, 'width': 1920, 'trace_id': '', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/d07e083beda7487d734728bf2a6e43b4/1040g2sg31g10d31bgg704a4cuclf5fgv0tt3uk0!nd_dft_wlteh_webp_3'}], 'tag_list': [{'type': 'topic', 'id': '5bf54ae0e1921600011295f8', 'name': '程序员'}, {'id': '5c2503ff000000000a02b53d', 'name': '程序媛', 'type': 'topic'}, {'id': '63538e7b000000000100adff', 'name': '程序员日常', 'type': 'topic'}, {'id': 
+        '613f77dc00000000010053ed',
+    'name': '程序员的出路',
+    'type': 'topic'
+}, {
+    'id': '5e142f350000000001007b75',
+    'name': '接单',
+    'type': 'topic'
+}, {
+    'id': '5bea7a739ef9730001934b7f',
+    'name': '副业',
+    'type': 'topic'
+}, {
+    'id': '5c18ad5f0000000003026d45',
+    'name': '自救',
+    'type': 'topic'
+}, {
+    'id': '64bd1de80000000025010179',
+    'name': '谁还没有副业',
+    'type': 'topic'
+}, {
+    'type': 'topic',
+    'id': '5fa0010300000000010024e3',
+    'name': '兼职'
+}], 'time': 1744113583000, 'share_info': {
+    'un_share': False
+}, 'last_update_time': 1744113583000, 'note_id': '67f50faf000000000e0051d1', 'type': 'normal', 'title': '程序员副业｜从接单到自媒体，我的变现之路', 'desc': '接上篇大家问得比较多得问题，想了解我怎么接单的， 
+今天特地整理了一下我目前在做的副业， 都是自己摸索的， 以下是我的无保留分享！👩 \u200d💻\ n\ t\ n一、 接单\ n1⃣️ 接单群： 这个应该也有人加过， 单子是
+真的有， 单价较低。\ n2⃣️ 电商平台（🍑🐟🍠）： 单子少， 需要运营， 之前有几个项目找过我， 虽然没成。\ n3⃣️ 朋友同事介绍： 单子少但靠谱， 我前司还找
+过我做项目。\ n4⃣️ 招聘平台： 确实是我的接单来源， 小公司会找项目外包和兼职， 需要面试， 但是单价和时薪高且靠谱。\ n🌟🌟🌟\ n接单需要的技能��� 技
+术栈广或者深， 最好是全栈， 要有独立完成项目的能力！\ n\ t\ n二、 自媒体（ 靠运气和赛道）\ n1⃣️ 接广告： 账号做起来之后会有品牌方找， 单价挺低的， 且
+有些广告平台🚫 流。\ n2⃣️ 挂店铺： 我看有些同行mai资料的~\n🌟🌟🌟\ n自媒体需要的技能： 粉丝量达到数量， 流量越好广告越多， 能坚持（ 再恰不到饭就坚
+持不下去了！）。\ n\ t\ n三、 血泪教训：\ n1⃣️ 别碰“ 简单需求”， 往往最耗时！\ n2⃣️ 自媒体偶尔数据差很正常， 坚持！\ n\ t\ n“ 白天写bug， 晚上赚外快！”\ n\ t\ n# 程序员[话题]## 程序媛[话题]## 程序员日常[话题]## 程序员的出路[话题]## 接单[话题]## 副业[话题]## 自救[话题]## 谁还没有副业[话题]## 兼
+职[话题]#
+', '
+user ': {'
+nickname ': '
+你为什么不开花 ', '
+avatar ': '
+https: //sns-avatar-qc.xhscdn.com/avatar/1040g2jo3165esoul1e004a4cuclf5fgvf0002s0', 'xsec_token': 'ABYqYhBNJKgAknAlkHZmivYWr8ChnM3SOl4i0nyhIVOyY=', 'user_id': '5acaeaf24eacab719226be1f'}, 'interact_info': {'collected': False, 'collected_count': '48', 'comment_count': '24', 'share_count': '21', 'followed': False, 'relation': 'none', 'liked': False, 
+    'liked_count': '34'
+}, 'at_user_list': [], 'xsec_token': 'AB8XaoxhyAu1Bo0HI96l1Jkqn_C9OPB3WQPVOOzNM5sE0=', 'xsec_source': None
+}, {
+    'interact_info': {
+        'share_count': '1',
+        'followed': False,
+        'relation': 'none',
+        'liked': False,
+        'liked_count': '32',
+        'collected': False,
+        'collected_count': '15',
+        'comment_count': '29'
+    },
+    'image_list': [{
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/6ab17fb32d31db98b841c2c40fbbd031/1040g2sg3198prqm35a704a4cuclf5fgvd662d8g!nd_prv_wlteh_webp_3',
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/2471b3a3359b2e2e02c2d98278f09f2a/1040g2sg3198prqm35a704a4cuclf5fgvd662d8g!nd_dft_wlteh_webp_3',
+        'live_photo': False,
+        'height': 2560,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2471b3a3359b2e2e02c2d98278f09f2a/1040g2sg3198prqm35a704a4cuclf5fgvd662d8g!nd_dft_wlteh_webp_3',
+        'trace_id': '',
+        'stream': {},
+        'file_id': '',
+        'width': 1920,
+        'info_list': [{
+            'image_scene': 'WB_PRV',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/6ab17fb32d31db98b841c2c40fbbd031/1040g2sg3198prqm35a704a4cuclf5fgvd662d8g!nd_prv_wlteh_webp_3'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2471b3a3359b2e2e02c2d98278f09f2a/1040g2sg3198prqm35a704a4cuclf5fgvd662d8g!nd_dft_wlteh_webp_3'
+        }]
+    }, {
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/20804cbbe19dbddc9f1d4514818fa3d7/1040g2sg3198prqm35a7g4a4cuclf5fgv3n0h3kg!nd_prv_wlteh_webp_3',
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/7da9a82b43788b88e33ef23f8a26c4f8/1040g2sg3198prqm35a7g4a4cuclf5fgv3n0h3kg!nd_dft_wlteh_webp_3',
+        'stream': {},
+        'live_photo': False,
+        'file_id': '',
+        'height': 2560,
+        'width': 1920,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/7da9a82b43788b88e33ef23f8a26c4f8/1040g2sg3198prqm35a7g4a4cuclf5fgv3n0h3kg!nd_dft_wlteh_webp_3',
+        'trace_id': '',
+        'info_list': [{
+            'image_scene': 'WB_PRV',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/20804cbbe19dbddc9f1d4514818fa3d7/1040g2sg3198prqm35a7g4a4cuclf5fgv3n0h3kg!nd_prv_wlteh_webp_3'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/7da9a82b43788b88e33ef23f8a26c4f8/1040g2sg3198prqm35a7g4a4cuclf5fgv3n0h3kg!nd_dft_wlteh_webp_3'
+        }]
+    }, {
+        'info_list': [{
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/a8f30f099ea720ca0e305550bd8c4172/1040g2sg3198prqm35a804a4cuclf5fgv6nadbs0!nd_prv_wlteh_webp_3',
+            'image_scene': 'WB_PRV'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/4687eabd7f287a5766946498cd10495c/1040g2sg3198prqm35a804a4cuclf5fgv6nadbs0!nd_dft_wlteh_webp_3'
+        }],
+        'stream': {},
+        'live_photo': False,
+        'file_id': '',
+        'width': 1920,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/4687eabd7f287a5766946498cd10495c/1040g2sg3198prqm35a804a4cuclf5fgv6nadbs0!nd_dft_wlteh_webp_3',
+        'trace_id': '',
+        'height': 2560,
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/a8f30f099ea720ca0e305550bd8c4172/1040g2sg3198prqm35a804a4cuclf5fgv6nadbs0!nd_prv_wlteh_webp_3',
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/4687eabd7f287a5766946498cd10495c/1040g2sg3198prqm35a804a4cuclf5fgv6nadbs0!nd_dft_wlteh_webp_3'
+    }, {
+        'width': 1920,
+        'trace_id': '',
+        'live_photo': False,
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/100400596ac93953e1f62370b656776c/1040g2sg3198prqm35a8g4a4cuclf5fgv61e54no!nd_dft_wlteh_webp_3',
+        'stream': {},
+        'file_id': '',
+        'height': 2560,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/100400596ac93953e1f62370b656776c/1040g2sg3198prqm35a8g4a4cuclf5fgv61e54no!nd_dft_wlteh_webp_3',
+        'info_list': [{
+            'image_scene': 'WB_PRV',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/936331ea09dffb4cead324f25915a4bd/1040g2sg3198prqm35a8g4a4cuclf5fgv61e54no!nd_prv_wlteh_webp_3'
+        }, {
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/100400596ac93953e1f62370b656776c/1040g2sg3198prqm35a8g4a4cuclf5fgv61e54no!nd_dft_wlteh_webp_3',
+            'image_scene': 'WB_DFT'
+        }],
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/936331ea09dffb4cead324f25915a4bd/1040g2sg3198prqm35a8g4a4cuclf5fgv61e54no!nd_prv_wlteh_webp_3'
+    }, {
+        'height': 1560,
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/e5584de23c77e04f847e1e12a76fda04/1040g2sg3198prqm35a904a4cuclf5fgvtvskcf0!nd_dft_wlteh_webp_3',
+        'info_list': [{
+            'image_scene': 'WB_PRV',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/3e5ac7aa332b55bebd29f8eec1fcbaf1/1040g2sg3198prqm35a904a4cuclf5fgvtvskcf0!nd_prv_wlteh_webp_3'
+        }, {
+            'image_scene': 'WB_DFT',
+            'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/e5584de23c77e04f847e1e12a76fda04/1040g2sg3198prqm35a904a4cuclf5fgvtvskcf0!nd_dft_wlteh_webp_3'
+        }],
+        'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/3e5ac7aa332b55bebd29f8eec1fcbaf1/1040g2sg3198prqm35a904a4cuclf5fgvtvskcf0!nd_prv_wlteh_webp_3',
+        'live_photo': False,
+        'file_id': '',
+        'width': 1170,
+        'trace_id': '',
+        'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/e5584de23c77e04f847e1e12a76fda04/1040g2sg3198prqm35a904a4cuclf5fgvtvskcf0!nd_dft_wlteh_webp_3',
+        'stream': {}
+    }],
+    'at_user_list': [],
+    'last_update_time': 1729604355000,
+    'share_info': {
+        'un_share': False
+    },
+    'type': 'normal',
+    'title': 'c++开发｜主业是工作，副业是事业',
+    'user': {
+        'nickname': '你为什么不开花',
+        'avatar': 'https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3165esoul1e004a4cuclf5fgvf0002s0',
+        'xsec_token': 'ABYqYhBNJKgAknAlkHZmivYWr8ChnM3SOl4i0nyhIVOyY=',
+        'user_id': '5acaeaf24eacab719226be1f'
+    },
+    'tag_list': [{
+        'id': '5bf54ae0e1921600011295f8',
+        'name': '程序员',
+        'type': 'topic'
+    }, {
+        'id': '5bea7a739ef9730001934b7f',
+        'name': '副业',
+        'type': 'topic'
+    }, {
+        'id': '63538e7b000000000100adff',
+        'name': '程序员日常',
+        'type': 'topic'
+    }, {
+        'type': 'topic',
+        'id': '5c2503ff000000000a02b53d',
+        'name': '程序媛'
+    }],
+    'time': 1729604355000,
+    'note_id': '6717ab03000000001602110b',
+    'desc': '今年计算机行业大环境真的很差，身为程序媛 
+    的我， 对未来的不确定性做了哪些准备和探索呢？📈\ n\ t\ n1⃣️ 技术方向\ n拓宽了技术的广度， 应对自己去拓展技术外包的路线\ n2⃣️ 副业方向（ 兴趣的延伸）\ n尝试自媒体\ n尝试电商\ n\ t\ n副业能够帮助我们探索主业之外的潜能， 尝试新的领域， 也许还能作为额外的收入来源， 在职业规划有更多的选择， 万一
+    是新的机遇🥸\ n\ t\ n“ 想全是问题， 做全是答案”\ n\ t\ n# 程序员[话题]## 副业[话题]## 程序员日常[话题]## 程序媛[话题]#
+    ', '
+    xsec_token ': '
+    ABn6NGmugy
+    Y8ixrnK - Wry1wpuwGayle5hAa0QL6533hQ4 = ', '
+    xsec_source ': None}, {'
+    interact_info ': {'
+    followed ': False, '
+    relation ': '
+    none ', '
+    liked ': False, '
+    liked_count ': '
+    32 ', '
+    collected ': False, '
+    collected_count ': '
+    40 ', '
+    comment_count ': '
+    2 ', '
+    share_count ': '
+    18 '}, '
+    image_list ': [{'
+    live_photo ': False, '
+    height ': 1656, '
+    width ': 1242, '
+    url_pre ': '
+    http: //sns-webpic-qc.xhscdn.com/202507240142/a98e8db0d9a1d8a5f6a5d9c6de7821a9/1040g2sg31apc5kgq7e705npgkjl0bh82hq0170o!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/7bf9ade0e4f113d27d070f0029435022/1040g2sg31apc5kgq7e705npgkjl0bh82hq0170o!nd_dft_wlteh_webp_3', 'stream': {}, 'file_id': '', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/7bf9ade0e4f113d27d070f0029435022/1040g2sg31apc5kgq7e705npgkjl0bh82hq0170o!nd_dft_wlteh_webp_3', 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/a98e8db0d9a1d8a5f6a5d9c6de7821a9/1040g2sg31apc5kgq7e705npgkjl0bh82hq0170o!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/7bf9ade0e4f113d27d070f0029435022/1040g2sg31apc5kgq7e705npgkjl0bh82hq0170o!nd_dft_wlteh_webp_3'}]}, {'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/adce72a6b4319a31ddaf4a6364c199e4/1040g2sg31apc5kgq7e7g5npgkjl0bh82ak7ojj0!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/054df0d73c9949aeda54d3c9b07b81dc/1040g2sg31apc5kgq7e7g5npgkjl0bh82ak7ojj0!nd_dft_wlteh_webp_3', 'file_id': 
+        '',
+    'height': 1656,
+    'width': 1242,
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/adce72a6b4319a31ddaf4a6364c199e4/1040g2sg31apc5kgq7e7g5npgkjl0bh82ak7ojj0!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/054df0d73c9949aeda54d3c9b07b81dc/1040g2sg31apc5kgq7e7g5npgkjl0bh82ak7ojj0!nd_dft_wlteh_webp_3'
+    }],
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/054df0d73c9949aeda54d3c9b07b81dc/1040g2sg31apc5kgq7e7g5npgkjl0bh82ak7ojj0!nd_dft_wlteh_webp_3',
+    'trace_id': '',
+    'stream': {},
+    'live_photo': False
+}, {
+    'width': 1242,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/6dd128753a3eaa454b94cbedf7287b79/1040g2sg31apc5kgq7e805npgkjl0bh82f0lf6b8!nd_dft_wlteh_webp_3',
+    'trace_id': '',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/f6f729a1a74308e1e5d68909b563f497/1040g2sg31apc5kgq7e805npgkjl0bh82f0lf6b8!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/6dd128753a3eaa454b94cbedf7287b79/1040g2sg31apc5kgq7e805npgkjl0bh82f0lf6b8!nd_dft_wlteh_webp_3'
+    }],
+    'file_id': '',
+    'height': 1656,
+    'stream': {},
+    'live_photo': False,
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/f6f729a1a74308e1e5d68909b563f497/1040g2sg31apc5kgq7e805npgkjl0bh82f0lf6b8!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/6dd128753a3eaa454b94cbedf7287b79/1040g2sg31apc5kgq7e805npgkjl0bh82f0lf6b8!nd_dft_wlteh_webp_3'
+}, {
+    'height': 1656,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/273d5db797229798adee828b9206f105/1040g2sg31apc5kgq7e8g5npgkjl0bh829rd7gj0!nd_dft_wlteh_webp_3',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2088f88ba50a228080e17a08bfc218f2/1040g2sg31apc5kgq7e8g5npgkjl0bh829rd7gj0!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/273d5db797229798adee828b9206f105/1040g2sg31apc5kgq7e8g5npgkjl0bh829rd7gj0!nd_dft_wlteh_webp_3'
+    }],
+    'stream': {},
+    'file_id': '',
+    'width': 1242,
+    'trace_id': '',
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/2088f88ba50a228080e17a08bfc218f2/1040g2sg31apc5kgq7e8g5npgkjl0bh829rd7gj0!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/273d5db797229798adee828b9206f105/1040g2sg31apc5kgq7e8g5npgkjl0bh829rd7gj0!nd_dft_wlteh_webp_3',
+    'live_photo': False
+}, {
+    'file_id': '',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/3bbb02011f2beafd4aea37bfce09d27f/1040g2sg31apc5kgq7e905npgkjl0bh82c5msbro!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/528f8e99b63caccbef2f5db4cc414f55/1040g2sg31apc5kgq7e905npgkjl0bh82c5msbro!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/3bbb02011f2beafd4aea37bfce09d27f/1040g2sg31apc5kgq7e905npgkjl0bh82c5msbro!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/528f8e99b63caccbef2f5db4cc414f55/1040g2sg31apc5kgq7e905npgkjl0bh82c5msbro!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'live_photo': False,
+    'height': 1656,
+    'width': 1242,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/528f8e99b63caccbef2f5db4cc414f55/1040g2sg31apc5kgq7e905npgkjl0bh82c5msbro!nd_dft_wlteh_webp_3',
+    'trace_id': ''
+}, {
+    'file_id': '',
+    'height': 1656,
+    'width': 1242,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/d7cd10782974d66e85d0f2ea602a1e9a/1040g2sg31apc5kgq7e9g5npgkjl0bh82sittnig!nd_dft_wlteh_webp_3',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/96921100dc11a0ab5c628462f093a756/1040g2sg31apc5kgq7e9g5npgkjl0bh82sittnig!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/d7cd10782974d66e85d0f2ea602a1e9a/1040g2sg31apc5kgq7e9g5npgkjl0bh82sittnig!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/96921100dc11a0ab5c628462f093a756/1040g2sg31apc5kgq7e9g5npgkjl0bh82sittnig!nd_prv_wlteh_webp_3',
+    'trace_id': '',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/d7cd10782974d66e85d0f2ea602a1e9a/1040g2sg31apc5kgq7e9g5npgkjl0bh82sittnig!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'live_photo': False
+}, {
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/48fd040179fc07e8de90d70d63bbe9c7/1040g2sg31apc5kgq7ea05npgkjl0bh82nnjtsg0!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'live_photo': False,
+    'file_id': '',
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/48fd040179fc07e8de90d70d63bbe9c7/1040g2sg31apc5kgq7ea05npgkjl0bh82nnjtsg0!nd_dft_wlteh_webp_3',
+    'trace_id': '',
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/88dde232686823f901716e5b3b753588/1040g2sg31apc5kgq7ea05npgkjl0bh82nnjtsg0!nd_prv_wlteh_webp_3',
+    'height': 1656,
+    'width': 1242,
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/88dde232686823f901716e5b3b753588/1040g2sg31apc5kgq7ea05npgkjl0bh82nnjtsg0!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/48fd040179fc07e8de90d70d63bbe9c7/1040g2sg31apc5kgq7ea05npgkjl0bh82nnjtsg0!nd_dft_wlteh_webp_3'
+    }]
+}, {
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/ed660b4a360f3866d1923482d73b7ade/1040g2sg31apc5kgq7eag5npgkjl0bh82ff4tcl8!nd_prv_wlteh_webp_3',
+    'stream': {},
+    'live_photo': False,
+    'file_id': '',
+    'width': 1242,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/feb0e435d101c40d0f6ae1e4c4864a00/1040g2sg31apc5kgq7eag5npgkjl0bh82ff4tcl8!nd_dft_wlteh_webp_3',
+    'trace_id': '',
+    'height': 1656,
+    'info_list': [{
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/ed660b4a360f3866d1923482d73b7ade/1040g2sg31apc5kgq7eag5npgkjl0bh82ff4tcl8!nd_prv_wlteh_webp_3',
+        'image_scene': 'WB_PRV'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/feb0e435d101c40d0f6ae1e4c4864a00/1040g2sg31apc5kgq7eag5npgkjl0bh82ff4tcl8!nd_dft_wlteh_webp_3'
+    }],
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/feb0e435d101c40d0f6ae1e4c4864a00/1040g2sg31apc5kgq7eag5npgkjl0bh82ff4tcl8!nd_dft_wlteh_webp_3'
+}, {
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2a631716364367a2b7564669b2fe7bb9/1040g2sg31apc5kgq7eb05npgkjl0bh82r2l9uv8!nd_dft_wlteh_webp_3',
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/0297f3ebbc1378fba2fb0a6723ac6e5d/1040g2sg31apc5kgq7eb05npgkjl0bh82r2l9uv8!nd_prv_wlteh_webp_3',
+    'stream': {},
+    'live_photo': False,
+    'file_id': '',
+    'height': 1656,
+    'width': 1242,
+    'trace_id': '',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/0297f3ebbc1378fba2fb0a6723ac6e5d/1040g2sg31apc5kgq7eb05npgkjl0bh82r2l9uv8!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2a631716364367a2b7564669b2fe7bb9/1040g2sg31apc5kgq7eb05npgkjl0bh82r2l9uv8!nd_dft_wlteh_webp_3'
+    }],
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/2a631716364367a2b7564669b2fe7bb9/1040g2sg31apc5kgq7eb05npgkjl0bh82r2l9uv8!nd_dft_wlteh_webp_3'
+}, {
+    'live_photo': False,
+    'file_id': '',
+    'width': 1242,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/b639aae9a271a9d8c5b3773a8f2ff31e/1040g2sg31apc5kgq7ebg5npgkjl0bh8249fobhg!nd_dft_wlteh_webp_3',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/585d4120bfe4fa5dbfc126094905bb70/1040g2sg31apc5kgq7ebg5npgkjl0bh8249fobhg!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/b639aae9a271a9d8c5b3773a8f2ff31e/1040g2sg31apc5kgq7ebg5npgkjl0bh8249fobhg!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/585d4120bfe4fa5dbfc126094905bb70/1040g2sg31apc5kgq7ebg5npgkjl0bh8249fobhg!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/b639aae9a271a9d8c5b3773a8f2ff31e/1040g2sg31apc5kgq7ebg5npgkjl0bh8249fobhg!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'height': 1656,
+    'trace_id': ''
+}, {
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/f59b6e56799f15496cd81aa5a8778e51/1040g2sg31apc5kgq7ec05npgkjl0bh82742lf9o!nd_dft_wlteh_webp_3',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/d8c308565ee781c4342bcce1491503b4/1040g2sg31apc5kgq7ec05npgkjl0bh82742lf9o!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/f59b6e56799f15496cd81aa5a8778e51/1040g2sg31apc5kgq7ec05npgkjl0bh82742lf9o!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/d8c308565ee781c4342bcce1491503b4/1040g2sg31apc5kgq7ec05npgkjl0bh82742lf9o!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/f59b6e56799f15496cd81aa5a8778e51/1040g2sg31apc5kgq7ec05npgkjl0bh82742lf9o!nd_dft_wlteh_webp_3',
+    'live_photo': False,
+    'file_id': '',
+    'height': 1656,
+    'width': 1242,
+    'trace_id': '',
+    'stream': {}
+}, {
+    'file_id': '',
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/3b68900b04a79019c42d8f4520db2278/1040g2sg31apc5kgq7ecg5npgkjl0bh82srl1o88!nd_dft_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/3b68900b04a79019c42d8f4520db2278/1040g2sg31apc5kgq7ecg5npgkjl0bh82srl1o88!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'height': 1656,
+    'width': 1242,
+    'trace_id': '',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/6d88721ad7a55088c06144f716b4a76e/1040g2sg31apc5kgq7ecg5npgkjl0bh82srl1o88!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/3b68900b04a79019c42d8f4520db2278/1040g2sg31apc5kgq7ecg5npgkjl0bh82srl1o88!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/6d88721ad7a55088c06144f716b4a76e/1040g2sg31apc5kgq7ecg5npgkjl0bh82srl1o88!nd_prv_wlteh_webp_3',
+    'live_photo': False
+}, {
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/72976c757c9e5175159e2b23fb79a715/1040g2sg31apc5kgq7ed05npgkjl0bh820lv6it0!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'live_photo': False,
+    'file_id': '',
+    'height': 1656,
+    'width': 1242,
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/36b363335d01df22fbcb335a4dbb9d6e/1040g2sg31apc5kgq7ed05npgkjl0bh820lv6it0!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/72976c757c9e5175159e2b23fb79a715/1040g2sg31apc5kgq7ed05npgkjl0bh820lv6it0!nd_dft_wlteh_webp_3'
+    }],
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/72976c757c9e5175159e2b23fb79a715/1040g2sg31apc5kgq7ed05npgkjl0bh820lv6it0!nd_dft_wlteh_webp_3',
+    'trace_id': '',
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/36b363335d01df22fbcb335a4dbb9d6e/1040g2sg31apc5kgq7ed05npgkjl0bh820lv6it0!nd_prv_wlteh_webp_3'
+}], 'tag_list': [{
+        'id': '67346ccb0000000021010ff1',
+        'name': '开发者掘金',
+        'type': 'topic'
+    }, {
+        'type': 'topic',
+        'id': '5bea7a739ef9730001934b7f',
+        'name': '副业'
+    }, {
+        'id': '5db8657d00000000020005d5',
+        'name': '副业可以这么干',
+        'type': 'topic'
+    }, {
+        'id': '626cdb20000000000100272a',
+        'name': 'cursor',
+        'type': 'topic'
+    }, {
+        'id': '61b8584d0000000001002823',
+        'name': '搞钱思维',
+        'type': 'topic'
+    }, {
+        'id': '6144bf8f000000000100be54',
+        'name': '独立开发者',
+        'type': 'topic'
+    },
+    {
+        'id': '643ae66f000000002e01feb9',
+        'name': 'ai编程',
+        'type': 'topic'
+    }, {
+        'id': '5bf54ae0e1921600011295f8',
+        'name': '程序员',
+        'type': 'topic'
+    }, {
+        'type': 'topic',
+        'id': '5c0f70b73767f600014af155',
+        'name': '软件开发'
+    }, {
+        'name': 'app',
+        'type': 'topic',
+        'id': '5bec21d91a3e6200016e23f6'
+    }
+], 'at_user_list': [], 'time': 1732871462000, 'note_id': '674967e5000000000703b6d5', 'type': 'normal', 'user': {
+    'avatar': 'https://sns-avatar-qc.xhscdn.com/avatar/673c2692a19061188b948fc9.jpg',
+    'xsec_token': 'AB-MGQfejnRDVhoIRXkOuYNu_SqLHKjl1yV2bCRFrbjsY=',
+    'user_id': '5f30a4ea000000000101c502',
+    'nickname': '开发者掘金'
+}, 'last_update_time': 1732863974000, 'share_info': {
+    'un_share': False
+}, 'title': 'App Store排行第1的app居然是用Cursor做的', 'desc': '很多小伙伴想做独立开发来搞副业，可一想到自己不会写代码，就觉得这事遥不可及。\n但今天我
+要分享的案例可能会改变你的想法！\ n\ t\ n蕞近有个博主， 他不是程序员， 却用 AI 编程工具仅花 1 小时就做出了一款爆款APP， 一夜之间杀进了 App Store 分类榜前 20 名！\ n不仅如此， APP上线后， 作者趁热打铁迭代更新， 上线小猫补光灯pro自拍版， 实现同设备补光自拍一体。\ n前天限免期结束， 仅一天
+就登上App Store付费榜Top1， 真的牛！\ n\ t\ n我们来拆解这个项目成功的原因， 其中有几个关键点值得所有想做产品的小伙伴学习👇\ n\ t\ n🎯 发现并解决刚
+需是关键。\ n刚需是用户必须解决的需求， 像这 App， 是因女生剪视频、 自拍补光难， 普通补光设备贵又麻烦。 它使用门槛低， 免费、 不占空间， 功能精准， 转化率高达 40 % 。\n\ t\ n🎯 人设和营销很重要。\ n作者两篇小红书笔记， 第二篇强调自己是不懂编程直男却做出女性App， 还赶上 AI 编程热话题， 引发程
+序员质疑、 女生反驳、 吃瓜群众好奇， 形成“ 争议 - 讨论 - 传播 - 下载” 链条， 可见讲好故事、 制造反差争议能让产品大曝光。\ n\ t\ n🎯 巧用“ 借力”。\ n一是借 AI 突破技术难题， 如 Cursor 工具， 用自然语言描述需求就能生成代码。 二是借平台之力， 如利用小红书目标用户多、 种草氛围浓、 转化率高的优
+势。 三是借用户反馈快速迭代产品。\ n\ t\ n👋 写给想做独立开发的朋友\ n通过这个案例， 我也想鼓励所有想做独立开发的朋友， 别被技术吓住。 在AI时代，
+机会真的是人人平等。 重要的不是你会什么， 而是你敢不敢做、 会不会做。 有想法就去验证， 利用工具开发， 放合适平台， 根据用户反馈优化。\ n完成比完.美更重要， 行动起来💪\ n与其羡慕别人年入百万， 不如先做个小程序试试水。 说不定， 下一个爆款就是出自你手呢！\ n\ t\ n# 开发者掘金[话题]## 副业[话题]## 副业可以这么干[话题]## cursor[话题]## 搞钱思维[话题]## 独立开发者[话题]## ai编程[话题]## 程序员[话题]## 软件开发[话题]## app[话题]#
+', '
+xsec_token ': '
+AB2997qkSR8xIXoWeGUg7FV0uoXbUaBLT7BfuWmarCYh0 = ', '
+xsec_source ': None}, {'
+time ': 1751268840000, '
+share_info ': {'
+un_share ': False}, '
+type ': '
+normal ', '
+title ': '🇯🇵
+日本IT｜ 最赚钱的编程语言副业排名 ', '
+interact_info ': {'
+collected_count ':   '
+34 ', '
+comment_count ': '
+2 ', '
+share_count ': '
+5 ', '
+followed ': False, '
+relation ': '
+none ', '
+liked ': False, '
+liked_count ': '
+31 ', '
+collected ': False}, '
+image_list ': [{'
+url_pre ': '
+http: //sns-webpic-qc.xhscdn.com/202507240142/b6ce277c2d331f59777b3d7a53232dc5/spectrum/1040g34o31j3r7to20u0g5oiehogk1q78rrhf3tg!nd_prv_wgth_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/1be5e54fa518f6ec39fd341c66435caa/spectrum/1040g34o31j3r7to20u0g5oiehogk1q78rrhf3tg!nd_dft_wgth_webp_3', 'live_photo': False, 'file_id': '', 'height': 820, 'width': 1040, 'stream': {}, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/1be5e54fa518f6ec39fd341c66435caa/spectrum/1040g34o31j3r7to20u0g5oiehogk1q78rrhf3tg!nd_dft_wgth_webp_3', 'trace_id': '', 'info_list': [{'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/b6ce277c2d331f59777b3d7a53232dc5/spectrum/1040g34o31j3r7to20u0g5oiehogk1q78rrhf3tg!nd_prv_wgth_webp_3', 'image_scene': 'WB_PRV'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/1be5e54fa518f6ec39fd341c66435caa/spectrum/1040g34o31j3r7to20u0g5oiehogk1q78rrhf3tg!nd_dft_wgth_webp_3'}]}], 'at_user_list': [], 'last_update_time': 1750746836000, 'ip_location': '日本', 'note_id': '685a46d40000000017037906', 'desc': 'SOKUDAN根据约 5000 个发布在 SOKUDAN 上的实际自由职业副业案例 (部分摘录) 制作的——2024 年发布最新的自由职业副业 “最多的案件排名 (编程语言)”。\n\t\n・第 1 位 React! 案件比率约 40%, 月收入也位居第 1 位，为 111 万日元\n\t\n・5 个 JavaScript 框架占总体的 75%\n\t\n・5 个 JavaScript  
+    框架的平均月收入为 92 万日元\ n\ t\ n・ 排名前 2 的语言约占所有案件数的 60 % , 排名前 5 的语言占 92 % \n\ t\ n・ 月收入超过 100 万日元的 4 种语言是： React、 Ruby on Rails、 Node.js、 Spring\ n\ t\ n💡 2024 年， 编程语言框架市场随着技术的进步而发生了巨大变化。 React 以 38.9 % 的案件率位居榜首，
+平均月收入也达到 111 万日元， 创下了令人惊叹的纪录。 这证明了 React 以 JavaScript 为基础， 在 Web 应用程序开发的前端得到了广泛使用。\ n\ t\ n💡
+Vue.js 和 Laravel 分别以 20.5 % 和 13.6 % 的项目比率在市场上占据重要地位。 这表明 JavaScript 和 PHP 在 Web 开发领域占据着非常重要的地位， 因
+为 Vue.js 基于 JavaScript, 而 Laravel 经常用于使用 PHP 的后端开发。 这两种技术的高项目比率清楚地表明了它们在 Web 开发中的不可或缺的作用。\ n\ t\ n💡 Spring(基于 Java) 的项目比例为 2.1 % , 平均月收入为 101 万日元， 收费高昂， 这反映了企业级应用程序开发对使用 Java 的高需求。\ n\ t\ n🙋 BSS长期招聘各种如果你拥有IT技能， 想寻找一份高薪的有前景的IT工作； 想来日本长久发展！ 如果你想快速拿高度人才申请永住（ 我们有20分加分福利），
+欢迎你的加入！ ', '
+user ': {'
+user_id ': '
+624e8 e21000000001000e8e8 ', '
+nickname ': '
+BSS企宣 ', '
+avatar ': '
+https: //sns-avatar-qc.xhscdn.com/avatar/624e8e21000000001000e8e8.jpg', 'xsec_token': 'AByxqtpKykXXVYYoZIZiaTpPVmgf_8Sz-HvLmRqxGsmDc='}, 'tag_list': [], 'xsec_token': 'ABN4Iu5-WHmOdzGc3Q9JGFRz293syBAIIk06S3XUQxGrk=', 'xsec_source': None}, {'image_list': [{'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/a086eea01cc2fb1e1eceb283683b663c/notes_pre_post/1040g3k031iuv8p0t1e005o41738gbs8jfmbcpm8!nd_prv_wlteh_webp_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/dda9d9331505462ebd3fdb44a200f74c/notes_pre_post/1040g3k031iuv8p0t1e005o41738gbs8jfmbcpm8!nd_dft_wlteh_webp_3'}], 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/a086eea01cc2fb1e1eceb283683b663c/notes_pre_post/1040g3k031iuv8p0t1e005o41738gbs8jfmbcpm8!nd_prv_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/dda9d9331505462ebd3fdb44a200f74c/notes_pre_post/1040g3k031iuv8p0t1e005o41738gbs8jfmbcpm8!nd_dft_wlteh_webp_3', 'height': 1652, 'width': 1239, 'stream': {}, 'live_photo': False, 'file_id': '', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/dda9d9331505462ebd3fdb44a200f74c/notes_pre_post/1040g3k031iuv8p0t1e005o41738gbs8jfmbcpm8!nd_dft_wlteh_webp_3'}, {'height': 1649, 
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/3e9b069b511c1a12aca6954db07952fc/notes_pre_post/1040g3k031iuv8p0t1e5g5o41738gbs8j1lg6q58!nd_dft_wlteh_webp_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/3e9b069b511c1a12aca6954db07952fc/notes_pre_post/1040g3k031iuv8p0t1e5g5o41738gbs8j1lg6q58!nd_dft_wlteh_webp_3', 'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/5e024e2b044e93ca1787889db0fd07f6/notes_pre_post/1040g3k031iuv8p0t1e5g5o41738gbs8j1lg6q58!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/3e9b069b511c1a12aca6954db07952fc/notes_pre_post/1040g3k031iuv8p0t1e5g5o41738gbs8j1lg6q58!nd_dft_wlteh_webp_3'
+    }], 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/5e024e2b044e93ca1787889db0fd07f6/notes_pre_post/1040g3k031iuv8p0t1e5g5o41738gbs8j1lg6q58!nd_prv_wlteh_webp_3', 'stream': {}, 'live_photo': False, 'file_id': '', 'width': 1231, 'trace_id': ''
+}, {
+    'height': 1793,
+    'width': 1239,
+    'trace_id': '',
+    'info_list': [{
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/0fcbe589d4e9e0e24c888baea22389aa/notes_pre_post/1040g3k031iv3mh3ohe505nh6rqrg8c36pi36uso!nd_prv_wlteh_webp_3',
+        'image_scene': 'WB_PRV'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/bfa18db30aab1d32db14863212122d64/notes_pre_post/1040g3k031iv3mh3ohe505nh6rqrg8c36pi36uso!nd_dft_wlteh_webp_3'
+    }],
+    'live_photo': False,
+    'file_id': '',
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/0fcbe589d4e9e0e24c888baea22389aa/notes_pre_post/1040g3k031iv3mh3ohe505nh6rqrg8c36pi36uso!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/bfa18db30aab1d32db14863212122d64/notes_pre_post/1040g3k031iv3mh3ohe505nh6rqrg8c36pi36uso!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/bfa18db30aab1d32db14863212122d64/notes_pre_post/1040g3k031iv3mh3ohe505nh6rqrg8c36pi36uso!nd_dft_wlteh_webp_3'
+}, {
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/56c27a2ceae7e13d68f101d649011b55/notes_pre_post/1040g3k031iv3mh3ohe5g5nh6rqrg8c360d21fu8!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2747d15cdbcd16879f21614c86bc46db/notes_pre_post/1040g3k031iv3mh3ohe5g5nh6rqrg8c360d21fu8!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/56c27a2ceae7e13d68f101d649011b55/notes_pre_post/1040g3k031iv3mh3ohe5g5nh6rqrg8c360d21fu8!nd_prv_wlteh_webp_3',
+    'stream': {},
+    'live_photo': False,
+    'file_id': '',
+    'trace_id': '',
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/2747d15cdbcd16879f21614c86bc46db/notes_pre_post/1040g3k031iv3mh3ohe5g5nh6rqrg8c360d21fu8!nd_dft_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/2747d15cdbcd16879f21614c86bc46db/notes_pre_post/1040g3k031iv3mh3ohe5g5nh6rqrg8c360d21fu8!nd_dft_wlteh_webp_3',
+    'height': 1811,
+    'width': 1240
+}, {
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/10fee8057ee6976cab4dac602800cfa4/notes_pre_post/1040g3k031iv3mh3ohe6g5nh6rqrg8c36sa24t88!nd_dft_wlteh_webp_3',
+    'live_photo': False,
+    'file_id': '',
+    'width': 1240,
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/e3c854ebbea5be3807a6d832d2a53494/notes_pre_post/1040g3k031iv3mh3ohe6g5nh6rqrg8c36sa24t88!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/10fee8057ee6976cab4dac602800cfa4/notes_pre_post/1040g3k031iv3mh3ohe6g5nh6rqrg8c36sa24t88!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/e3c854ebbea5be3807a6d832d2a53494/notes_pre_post/1040g3k031iv3mh3ohe6g5nh6rqrg8c36sa24t88!nd_prv_wlteh_webp_3',
+    'height': 1920,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/10fee8057ee6976cab4dac602800cfa4/notes_pre_post/1040g3k031iv3mh3ohe6g5nh6rqrg8c36sa24t88!nd_dft_wlteh_webp_3',
+    'trace_id': '',
+    'stream': {}
+}, {
+    'trace_id': '',
+    'stream': {},
+    'live_photo': False,
+    'file_id': '',
+    'height': 1862,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/b9e731f423a037bdcc498816561254b0/notes_pre_post/1040g3k031iuv8p0t1e4g5o41738gbs8jni3nsjo!nd_dft_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/b9e731f423a037bdcc498816561254b0/notes_pre_post/1040g3k031iuv8p0t1e4g5o41738gbs8jni3nsjo!nd_dft_wlteh_webp_3',
+    'width': 1240,
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/5804bf3033f94ca0111c7f7d089e9d0e/notes_pre_post/1040g3k031iuv8p0t1e4g5o41738gbs8jni3nsjo!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/b9e731f423a037bdcc498816561254b0/notes_pre_post/1040g3k031iuv8p0t1e4g5o41738gbs8jni3nsjo!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/5804bf3033f94ca0111c7f7d089e9d0e/notes_pre_post/1040g3k031iuv8p0t1e4g5o41738gbs8jni3nsjo!nd_prv_wlteh_webp_3'
+}, {
+    'file_id': '',
+    'height': 1896,
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/0e83a297adb35017bf4ebb2858bd956f/notes_pre_post/1040g3k031iuv8p0t1e1g5o41738gbs8je00f1u8!nd_prv_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/a800486066f0da481cde8e50004c50e9/notes_pre_post/1040g3k031iuv8p0t1e1g5o41738gbs8je00f1u8!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'width': 1237,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/a800486066f0da481cde8e50004c50e9/notes_pre_post/1040g3k031iuv8p0t1e1g5o41738gbs8je00f1u8!nd_dft_wlteh_webp_3',
+    'trace_id': '',
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/0e83a297adb35017bf4ebb2858bd956f/notes_pre_post/1040g3k031iuv8p0t1e1g5o41738gbs8je00f1u8!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/a800486066f0da481cde8e50004c50e9/notes_pre_post/1040g3k031iuv8p0t1e1g5o41738gbs8je00f1u8!nd_dft_wlteh_webp_3'
+    }],
+    'live_photo': False
+}, {
+    'trace_id': '',
+    'live_photo': False,
+    'file_id': '',
+    'width': 1235,
+    'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/58b06919ca74c67ceb3a615b0530c093/notes_pre_post/1040g3k031iuv8p0t1e405o41738gbs8jdvj9huo!nd_dft_wlteh_webp_3',
+    'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/58b06919ca74c67ceb3a615b0530c093/notes_pre_post/1040g3k031iuv8p0t1e405o41738gbs8jdvj9huo!nd_dft_wlteh_webp_3',
+    'stream': {},
+    'height': 1779,
+    'info_list': [{
+        'image_scene': 'WB_PRV',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/cac666733215fac98bb167e56710db04/notes_pre_post/1040g3k031iuv8p0t1e405o41738gbs8jdvj9huo!nd_prv_wlteh_webp_3'
+    }, {
+        'image_scene': 'WB_DFT',
+        'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/58b06919ca74c67ceb3a615b0530c093/notes_pre_post/1040g3k031iuv8p0t1e405o41738gbs8jdvj9huo!nd_dft_wlteh_webp_3'
+    }],
+    'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/cac666733215fac98bb167e56710db04/notes_pre_post/1040g3k031iuv8p0t1e405o41738gbs8jdvj9huo!nd_prv_wlteh_webp_3'
+}], 'tag_list': [{
+    'id': '5fd62942000000000100036d',
+    'name': '互联网大厂',
+    'type': 'topic'
+}, {
+    'id': '635679cb000000000100505c',
+    'name': 'AI工具',
+    'type': 'topic'
+}, {
+    'id': '620cd421000000000100130c',
+    'name': '人工智能',
+    'type': 'topic'
+}, {
+    'type': 'topic',
+    'id': '61b8584d0000000001002823',
+    'name': '搞钱思维'
+}, {
+    'type': 'topic',
+    'id': '61e24ac3000000000100a2b8',
+    'name': '个人开发者'
+}, {
+    'id': '5bcf47af7642f11051a33504',
+    'name': '没想到你是这样的程序员',
+    'type': 'topic'
+}, {
+    'name': '人工智能就业',
+    'type': 'topic',
+    'id': '63174ccb0000000001000f37'
+}, {
+    'id': '62a8686400000000010022c5',
+    'name': '人工智能替代人工',
+    'type': 'topic'
+}, {
+    'id': '63d2f6500000000001007235',
+    'name': 'AI创业',
+    'type': 'topic'
+}, {
+    'type': 'topic',
+    'id': '645b9c74000000002801a81d',
+    'name': 'AI搞钱'
+}], 'time': 1750428726000, 'title': 'AI搞钱！31岁程序员搞AI副
+业， 半年8千万 ', '
+user ': {'
+user_id ': '
+5e26 deb70000000001003066 ', '
+nickname ': '
+AI树 ', '
+avatar ': '
+https: //sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ikjmt7o0a3g5nh6rqrg8c366igqe68', 'xsec_token': 'ABKFWqP2heqSkN2A5jxyIOjaukTy2_QLqn0PAd5mrfB7c='}, 'desc': '嗨嗨～我是树枝[棒R]\n\t\n今天分享的例子是AI+编程。Vibe coding最近也很火。\n氛围编程（vibe coding）是编程方式。氛围编程主要由AI完成：开发者向AI提出需求；只要代 
+    码能正常运行， 开发者便不经详细检查直接应用； 当代码出问题时， 要求AI修改。 氛围编程无需高编程能力， 编程门槛低， 专业程序员也能通过氛围编程提
+升效率。\ n\ t\ n# 互联网大厂[话题]## AI工具[话题]## 人工智能[话题]## 搞钱思维[话题]## 个人开发者[话题]## 没想到你是这样的程序员[话题]## 人
+工智能就业[话题]## 人工智能替代人工[话题]## AI创业[话题]## AI搞钱[话题]#
+', '
+interact_info ': {'
+liked_count ': '
+31 ', '
+collected ': False, '
+collected_count ': '
+37 ', '
+comment_count ': '
+1 ', '
+share_count ': '
+8 ', '
+followed ': False, '
+relation ': '
+none ', '
+liked ': False}, '
+at_user_list ': [], '
+last_update_time ': 1750485336000, '
+share_info ': {'
+un_share ': False}, '
+note_id ': '
+68556 c360000000022032f6a ', '
+type ': '
+normal ', '
+xsec_token ': '
+ABcfuZKLyhlkSZ4igYVgy03OJkq9SFntQIUTy82dVoQro = ', '
+xsec_source ': None}, {'
+xsec_token ': '
+ABUHzMVCzISsa_uCCrC3dpk7pt - SZqGl7B7ZLXSyYNOXc = ', '
+desc ': '
+今天给大家分享IT运维人员搞钱的22个副业方向~\n\ufeff# linux运维学习[话题]# \ufeff \ufeff# 运维[话题]# \ufeff \ufeff# 运维工程师[话题]# \ufeff \ufeff# 运维工作[话题]# \ufeff \ufeff# 副业[话题]# \ufeff \ufeff# 运维学习[话题]# \ufeff ', '
+user ': {'
+user_id ': '
+64 c35ea9000000000b007534 ', '
+nickname ': '
+逗死我了 ', '
+avatar ': '
+https: //sns-avatar-qc.xhscdn.com/avatar/1040g2jo30n2fjic65m605p63bqkiot9kb15s078', 'xsec_token': 'ABXzr-in0-NYLCNtPdUHo6tIWx5ySKfFXXovzsIg6cbgw='}, 'interact_info': {'relation': 'none', 'liked': False, 'liked_count': '10+', 'collected': False, 'collected_count': '10+', 'comment_count': '1', 'share_count': '9', 'followed': False}, 'image_list': [{'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/e11095a8afb5521c8560b5537abca929/spectrum/1040g34o31b165482mq3g5p63bqkiot9kf1e2440!nd_prv_wlteh_jpg_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/6525df6c92fbf6414beda1a1dd99c507/spectrum/1040g34o31b165482mq3g5p63bqkiot9kf1e2440!nd_dft_wlteh_jpg_3'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/6525df6c92fbf6414beda1a1dd99c507/spectrum/1040g34o31b165482mq3g5p63bqkiot9kf1e2440!nd_dft_wlteh_jpg_3', 'stream': {}, 'live_photo': False, 'file_id': '', 'height': 1660, 'trace_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/e11095a8afb5521c8560b5537abca929/spectrum/1040g34o31b165482mq3g5p63bqkiot9kf1e2440!nd_prv_wlteh_jpg_3', 'width': 1245, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/6525df6c92fbf6414beda1a1dd99c507/spectrum/1040g34o31b165482mq3g5p63bqkiot9kf1e2440!nd_dft_wlteh_jpg_3'}, {'width': 1245, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/0256eb09dd70c34c7a17474104fce228/spectrum/1040g34o31b165482mq405p63bqkiot9kao9vcoo!nd_dft_wlteh_jpg_3', 'trace_id': '', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/ee49a89388b24466914f56c1b3497cd5/spectrum/1040g34o31b165482mq405p63bqkiot9kao9vcoo!nd_prv_wlteh_jpg_3', 'stream': {}, 'live_photo': False, 'file_id': '', 'height': 1660, 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/ee49a89388b24466914f56c1b3497cd5/spectrum/1040g34o31b165482mq405p63bqkiot9kao9vcoo!nd_prv_wlteh_jpg_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/0256eb09dd70c34c7a17474104fce228/spectrum/1040g34o31b165482mq405p63bqkiot9kao9vcoo!nd_dft_wlteh_jpg_3'}], 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/0256eb09dd70c34c7a17474104fce228/spectrum/1040g34o31b165482mq405p63bqkiot9kao9vcoo!nd_dft_wlteh_jpg_3'}, {'file_id': '', 'width': 1245, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/b85212eee9d0b782f9d47618fbb1d864/spectrum/1040g34o31b165482mq4g5p63bqkiot9ktjivcd8!nd_dft_wlteh_jpg_3', 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/d165bb1524b6f0f476ef8631fc2ff1c9/spectrum/1040g34o31b165482mq4g5p63bqkiot9ktjivcd8!nd_prv_wlteh_jpg_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/b85212eee9d0b782f9d47618fbb1d864/spectrum/1040g34o31b165482mq4g5p63bqkiot9ktjivcd8!nd_dft_wlteh_jpg_3', 'height': 1660, 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/d165bb1524b6f0f476ef8631fc2ff1c9/spectrum/1040g34o31b165482mq4g5p63bqkiot9ktjivcd8!nd_prv_wlteh_jpg_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/b85212eee9d0b782f9d47618fbb1d864/spectrum/1040g34o31b165482mq4g5p63bqkiot9ktjivcd8!nd_dft_wlteh_jpg_3'}], 'stream': {}, 'live_photo': False}, {'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/a3a02fa1064fe746ba097072ede7fe36/spectrum/1040g34o31b165482mq505p63bqkiot9kcitg2k8!nd_prv_wlteh_jpg_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/40ffe9cb157b3a996fa0c33881628865/spectrum/1040g34o31b165482mq505p63bqkiot9kcitg2k8!nd_dft_wlteh_jpg_3', 'stream': {}, 'width': 1245, 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/a3a02fa1064fe746ba097072ede7fe36/spectrum/1040g34o31b165482mq505p63bqkiot9kcitg2k8!nd_prv_wlteh_jpg_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/40ffe9cb157b3a996fa0c33881628865/spectrum/1040g34o31b165482mq505p63bqkiot9kcitg2k8!nd_dft_wlteh_jpg_3'}], 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/40ffe9cb157b3a996fa0c33881628865/spectrum/1040g34o31b165482mq505p63bqkiot9kcitg2k8!nd_dft_wlteh_jpg_3', 'trace_id': '', 'live_photo': False, 'file_id': '', 'height': 1660}, {'file_id': '', 'width': 1245, 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/f9709a29e86fcee055edefd0a663a4c9/spectrum/1040g34o31b165482mq5g5p63bqkiot9k96ttiqg!nd_prv_wlteh_jpg_3'}, {'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/6346470ecde2f55722e43ccb66cf9bfb/spectrum/1040g34o31b165482mq5g5p63bqkiot9k96ttiqg!nd_dft_wlteh_jpg_3', 'image_scene': 'WB_DFT'}], 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/f9709a29e86fcee055edefd0a663a4c9/spectrum/1040g34o31b165482mq5g5p63bqkiot9k96ttiqg!nd_prv_wlteh_jpg_3', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/6346470ecde2f55722e43ccb66cf9bfb/spectrum/1040g34o31b165482mq5g5p63bqkiot9k96ttiqg!nd_dft_wlteh_jpg_3', 'stream': {}, 'height': 1660, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/6346470ecde2f55722e43ccb66cf9bfb/spectrum/1040g34o31b165482mq5g5p63bqkiot9k96ttiqg!nd_dft_wlteh_jpg_3', 'live_photo': False}, {'height': 1660, 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/0e8c47eef42984a737288d92c24c4d44/spectrum/1040g34o31b165482mq605p63bqkiot9k001kebo!nd_prv_wlteh_jpg_3', 'stream': {}, 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/4e9b4cc28811bd774843478b2ac55edc/spectrum/1040g34o31b165482mq605p63bqkiot9k001kebo!nd_dft_wlteh_jpg_3', 'live_photo': False, 'file_id': '', 'width': 1245, 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/4e9b4cc28811bd774843478b2ac55edc/spectrum/1040g34o31b165482mq605p63bqkiot9k001kebo!nd_dft_wlteh_jpg_3', 'trace_id': '', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/0e8c47eef42984a737288d92c24c4d44/spectrum/1040g34o31b165482mq605p63bqkiot9k001kebo!nd_prv_wlteh_jpg_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/4e9b4cc28811bd774843478b2ac55edc/spectrum/1040g34o31b165482mq605p63bqkiot9k001kebo!nd_dft_wlteh_jpg_3'}]}, {'file_id': '', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/3602ef2c2d03a691925b012bf2ca75d3/spectrum/1040g34o31b165482mq6g5p63bqkiot9krc8d04g!nd_dft_wlteh_jpg_3', 'info_list': [{'image_scene': 'WB_PRV', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/ede8e5e06241a011032ab6d9b03dc242/spectrum/1040g34o31b165482mq6g5p63bqkiot9krc8d04g!nd_prv_wlteh_jpg_3'}, {'image_scene': 'WB_DFT', 'url': 'http://sns-webpic-qc.xhscdn.com/202507240142/3602ef2c2d03a691925b012bf2ca75d3/spectrum/1040g34o31b165482mq6g5p63bqkiot9krc8d04g!nd_dft_wlteh_jpg_3'}], 'url_pre': 'http://sns-webpic-qc.xhscdn.com/202507240142/ede8e5e06241a011032ab6d9b03dc242/spectrum/1040g34o31b165482mq6g5p63bqkiot9krc8d04g!nd_prv_wlteh_jpg_3', 'live_photo': False, 'height': 1660, 'width': 1245, 'trace_id': '', 'url_default': 'http://sns-webpic-qc.xhscdn.com/202507240142/3602ef2c2d03a691925b012bf2ca75d3/spectrum/1040g34o31b165482mq6g5p63bqkiot9krc8d04g!nd_dft_wlteh_jpg_3', 'stream': {}}], 'tag_list': [{'id': '601b4c1b000000000101f78b', 'name': 'linux运维学习', 'type': 'topic'}, {'id': '5f11cb9a0000000001003ac2', 'name': '运维', 'type': 'topic'}, {'id': '607931b9000000000101edd1', 'name': '运维工程师', 'type': 'topic'}, {'id': '634d2ec80000000001004fc5', 'name': '运维工作', 'type': 'topic'}, {'id': '5bea7a739ef9730001934b7f', 'name': '副业', 'type': 'topic'}, {'name': '运维学习', 'type': 'topic', 'id': '63a121f5000000000101e407'}], 'time': 1733388495000, 'last_update_time': 1733388496000, 'type': 'normal', 'title': 'IT运维22个副业方向，你都知道吗？', 'at_user_list': [], 'share_info': {'un_share': False}, 'note_id': '675168cf000000000202d0a8', 'xsec_source': None}]
+    2025 - 07 - 24 01: 42: 37 MediaCrawler INFO(core.py: 345) - [XiaoHongShuCrawler.batch_get_note_comments] Begin batch get note comments, note list: ['665450720000000005006b51', '67a1d3cb000000001701d7b0', '65fc1c310000000013024c3f', '67f4eabc000000000d0179f7', '67192380000000001402c131', '67e1ff45000000001b0398dd', '67d1b1c5000000000e006d22', '66e10a64000000001e019eaa', '67113d34000000001402e5b2', '66a83129000000002701c3bb', '66124b41000000001b00dc46', '678f0cd5000000001800c57a', '67658de8000000000800cfe7', '66e7d933000000002603342d', '67f50faf000000000e0051d1', '6717ab03000000001602110b', '674967e5000000000703b6d5', '685a46d40000000017037906', '68556c360000000022032f6a', '675168cf000000000202d0a8']

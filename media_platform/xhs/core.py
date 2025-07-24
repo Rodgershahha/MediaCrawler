@@ -15,7 +15,7 @@ import random
 import time
 from asyncio import Task
 from typing import Dict, List, Optional, Tuple
-
+import json
 from playwright.async_api import (
     BrowserContext,
     BrowserType,
@@ -53,6 +53,7 @@ class XiaoHongShuCrawler(AbstractCrawler):
         # self.user_agent = utils.get_user_agent()
         self.user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
         self.cdp_manager = None
+        self.xhs_limit_count = 20 # xhs limit page fixed value
 
     async def start(self) -> None:
         playwright_proxy_format, httpx_proxy_format = None, None
@@ -125,7 +126,7 @@ class XiaoHongShuCrawler(AbstractCrawler):
         utils.logger.info(
             "[XiaoHongShuCrawler.search] Begin search xiaohongshu keywords"
         )
-        xhs_limit_count = 20  # xhs limit page fixed value
+        xhs_limit_count = self.xhs_limit_count  # xhs limit page fixed value
         if config.CRAWLER_MAX_NOTES_COUNT < xhs_limit_count:
             config.CRAWLER_MAX_NOTES_COUNT = xhs_limit_count
         start_page = config.START_PAGE
@@ -160,9 +161,7 @@ class XiaoHongShuCrawler(AbstractCrawler):
                             else SearchSortType.GENERAL
                         ),
                     )
-                    utils.logger.info(
-                        f"[XiaoHongShuCrawler.search] Search notes res:{notes_res}"
-                    )
+                    # utils.logger.info(f"[XiaoHongShuCrawler.search] Search notes res:{notes_res}")
                     if not notes_res or not notes_res.get("has_more", False):
                         utils.logger.info("No more content!")
                         break
@@ -185,9 +184,9 @@ class XiaoHongShuCrawler(AbstractCrawler):
                             note_ids.append(note_detail.get("note_id"))
                             xsec_tokens.append(note_detail.get("xsec_token"))
                     page += 1
-                    utils.logger.info(
-                        f"[XiaoHongShuCrawler.search] Note details: {note_details}"
-                    )
+                    # utils.logger.info( f"[XiaoHongShuCrawler.search] Note details: {note_details}")
+
+
                     await self.batch_get_note_comments(note_ids, xsec_tokens)
                 except DataFetchError:
                     utils.logger.error(
@@ -331,6 +330,9 @@ class XiaoHongShuCrawler(AbstractCrawler):
                     f"[XiaoHongShuCrawler.get_note_detail_async_task] have not fund note detail note_id:{note_id}, err: {ex}"
                 )
                 return None
+            except Exception as e:
+                print(f"Caught an exception: {e}")
+
 
     async def batch_get_note_comments(
             self, note_list: List[str], xsec_tokens: List[str]
